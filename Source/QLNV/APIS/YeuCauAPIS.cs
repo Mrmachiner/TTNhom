@@ -11,7 +11,7 @@ namespace QLNV.APIS
     class YeuCauAPIS
     {
         QLPCNhanVienEntities1 db = new QLPCNhanVienEntities1();
-        //GetYeuCau
+        //GetYC
         public IQueryable<YeuCau> GetYeuCau()
         {
             return db.YeuCau.OrderByDescending(x=>x.YeuCauID);
@@ -57,8 +57,8 @@ namespace QLNV.APIS
             else
             {
                 YeuCau.NgayTruc = yeuCau.NgayTruc;
-                //YeuCau.SoLuongCa = yeuCau.SoLuongCa;
                 YeuCau.IDAdmin = yeuCau.IDAdmin;
+                //YeuCau.SoLuongCa = yeuCau.SoLuongCa;
             }
         }
         public void DeleteYeuCau(YeuCau yeuCau)
