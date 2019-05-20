@@ -1,0 +1,55 @@
+//Can Bo 
+public int CountCv { get; set; }
+        public void SetCountCV(DateTime daynow, DateTime lastDay)
+        {
+            int count = 0;
+            foreach (PhanCong phancong in PhanCong)
+            {
+                if (phancong.YeuCau.NgayTruc >= daynow && phancong.YeuCau.NgayTruc <= lastDay)
+                    count++;
+            }
+            CountCv = count;
+        }
+        public static List<CanBo> SortCanBo(List<CanBo> lstCanBo, DateTime nowDate)
+        {
+            DateTime daynow = new DateTime(day: 1, month: nowDate.Month, year: nowDate.Year);
+            DateTime lastDay = new DateTime(day: DateTime.DaysInMonth(nowDate.Year, nowDate.Month), month: nowDate.Month, year: nowDate.Year);
+            foreach (var lst in lstCanBo)
+            {
+                lst.SetCountCV(daynow, lastDay);
+            }
+            return lstCanBo;
+        }
+        public  static List<CanBo> FindCV(List<CanBo> lstCanBo, DateTime formDate, DateTime toDate)
+        {
+            
+            DateTime daynow = new DateTime(day: formDate.Day, month: formDate.Month, year: formDate.Year);
+            DateTime lastDay = new DateTime(day: toDate.Day, month: toDate.Month, year: toDate.Year);
+            foreach (var lst in lstCanBo)
+            {
+                lst.SetCountCV(daynow, lastDay);
+            }
+            return lstCanBo;
+        }
+    }
+//Don VI
+public override string ToString()
+        {
+            return TenDonVi.ToString();
+        }
+//DotCongViec
+public int CountNguoiCan()
+        {
+            int sum = 0;
+            foreach (var item in this.YeuCau)
+            {
+                sum = sum + item.PhanCong.Count;
+            }
+            return sum;
+        }
+//Yeu Cau
+public override string ToString()
+        {
+            DateTime ngay = (DateTime)this.NgayTruc.Value.DateTime;
+            return ngay.ToString("MM/dd/yyyy");
+        }
