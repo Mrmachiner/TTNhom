@@ -176,8 +176,8 @@ namespace QLNV.View
             {
                 if (MessageBox.Show("Chưa có đợt cho ngày này. Bạn có muốn tạo đợt ?", "Mesage", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
                 {
-                    TaoDotCongViet f = new TaoDotCongViet();
-                    f.ShowDialog();
+                    //TaoDotCongViet f = new TaoDotCongViet();
+                    //f.ShowDialog();
                 }
             }
         }
@@ -224,8 +224,8 @@ namespace QLNV.View
             {
                 if (MessageBox.Show("Chưa có đợt cho ngày này. Bạn có muốn tạo đợt ?", "Mesage", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
                 {
-                    TaoDotCongViet f = new TaoDotCongViet();
-                    f.ShowDialog();
+                    //TaoDotCongViet f = new TaoDotCongViet();
+                    //f.ShowDialog();
 
                 }
             }

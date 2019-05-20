@@ -166,8 +166,8 @@ namespace QLNV
 
         private void button1_Click_1(object sender, EventArgs e)
         {
-            TaoDotCongViet taoDotCongViet = new TaoDotCongViet();
-            taoDotCongViet.Show();
+            //TaoDotCongViet taoDotCongViet = new TaoDotCongViet();
+            //taoDotCongViet.Show();
         }
     }
 }

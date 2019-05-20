@@ -1,6 +1,5 @@
 ﻿using QLNV.View;
 using QLNV.View.In;
-using QLNV.View.TimKiem;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -19,7 +18,7 @@ namespace QLNV
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FormTrangChu());
+            Application.Run(new FormQuanLyCanBo());
         }
     }
 }

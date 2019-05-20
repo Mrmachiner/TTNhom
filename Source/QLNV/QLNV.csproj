@@ -145,18 +145,6 @@
     <Compile Include="View\DanhMucYeuCau\XoaYeuCau.Designer.cs">
       <DependentUpon>XoaYeuCau.cs</DependentUpon>
     </Compile>
-    <Compile Include="View\DanhSachCanBo.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="View\DanhSachCanBo.Designer.cs">
-      <DependentUpon>DanhSachCanBo.cs</DependentUpon>
-    </Compile>
-    <Compile Include="View\DanhSachCaTruc.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="View\DanhSachCaTruc.Designer.cs">
-      <DependentUpon>DanhSachCaTruc.cs</DependentUpon>
-    </Compile>
     <Compile Include="View\frmQuanLyDot.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -168,18 +156,6 @@
     </Compile>
     <Compile Include="View\In\FormIn.Designer.cs">
       <DependentUpon>FormIn.cs</DependentUpon>
-    </Compile>
-    <Compile Include="View\PhanCong\FormChonCa.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="View\PhanCong\FormChonCa.Designer.cs">
-      <DependentUpon>FormChonCa.cs</DependentUpon>
-    </Compile>
-    <Compile Include="View\FormDangNhap.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="View\FormDangNhap.Designer.cs">
-      <DependentUpon>FormDangNhap.cs</DependentUpon>
     </Compile>
     <Compile Include="View\DanhMucCanBo\FormQuanLyCanBo.cs">
       <SubType>Form</SubType>
@@ -199,30 +175,6 @@
     <Compile Include="View\DanhMucCanBo\FormThemSua.Designer.cs">
       <DependentUpon>FormThemSua.cs</DependentUpon>
     </Compile>
-    <Compile Include="View\TaoDotCongViet.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="View\TaoDotCongViet.Designer.cs">
-      <DependentUpon>TaoDotCongViet.cs</DependentUpon>
-    </Compile>
-    <Compile Include="View\ThongKe\ThongKeCa\FormTKCa.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="View\ThongKe\ThongKeCa\FormTKCa.Designer.cs">
-      <DependentUpon>FormTKCa.cs</DependentUpon>
-    </Compile>
-    <Compile Include="View\ThongKe\ThongKeCanBo\FormTKCanBo.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="View\ThongKe\ThongKeCanBo\FormTKCanBo.Designer.cs">
-      <DependentUpon>FormTKCanBo.cs</DependentUpon>
-    </Compile>
-    <Compile Include="View\FormTrangChu.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="View\FormTrangChu.Designer.cs">
-      <DependentUpon>FormTrangChu.cs</DependentUpon>
-    </Compile>
     <Compile Include="View\DanhMucYeuCau\FormQuanLyYeuCau.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -231,42 +183,6 @@
     </Compile>
     <Compile Include="Helpers\Login.cs" />
     <Compile Include="Program.cs" />
-    <Compile Include="View\PhanCong\RandomNhanSu.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="View\PhanCong\RandomNhanSu.Designer.cs">
-      <DependentUpon>RandomNhanSu.cs</DependentUpon>
-    </Compile>
-    <Compile Include="View\ThongKe\ThongKeNgay\FormTKNgay.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="View\ThongKe\ThongKeNgay\FormTKNgay.Designer.cs">
-      <DependentUpon>FormTKNgay.cs</DependentUpon>
-    </Compile>
-    <Compile Include="View\TimKiem\LichTrucf.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="View\TimKiem\LichTrucf.Designer.cs">
-      <DependentUpon>LichTrucf.cs</DependentUpon>
-    </Compile>
-    <Compile Include="View\TimKiem\TimCanBo.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="View\TimKiem\TimCanBo.Designer.cs">
-      <DependentUpon>TimCanBo.cs</DependentUpon>
-    </Compile>
-    <Compile Include="View\TimKiem\TimKiemCa.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="View\TimKiem\TimKiemCa.Designer.cs">
-      <DependentUpon>TimKiemCa.cs</DependentUpon>
-    </Compile>
-    <Compile Include="View\TimKiem\TimKiemNgay.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="View\TimKiem\TimKiemNgay.Designer.cs">
-      <DependentUpon>TimKiemNgay.cs</DependentUpon>
-    </Compile>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -286,23 +202,11 @@
     <EmbeddedResource Include="View\DanhMucYeuCau\XoaYeuCau.resx">
       <DependentUpon>XoaYeuCau.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="View\DanhSachCanBo.resx">
-      <DependentUpon>DanhSachCanBo.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="View\DanhSachCaTruc.resx">
-      <DependentUpon>DanhSachCaTruc.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="View\frmQuanLyDot.resx">
       <DependentUpon>frmQuanLyDot.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="View\In\FormIn.resx">
       <DependentUpon>FormIn.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="View\PhanCong\FormChonCa.resx">
-      <DependentUpon>FormChonCa.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="View\FormDangNhap.resx">
-      <DependentUpon>FormDangNhap.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="View\DanhMucCanBo\FormQuanLyCanBo.resx">
       <DependentUpon>FormQuanLyCanBo.cs</DependentUpon>
@@ -313,38 +217,8 @@
     <EmbeddedResource Include="View\DanhMucCanBo\FormThemSua.resx">
       <DependentUpon>FormThemSua.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="View\TaoDotCongViet.resx">
-      <DependentUpon>TaoDotCongViet.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="View\ThongKe\ThongKeCa\FormTKCa.resx">
-      <DependentUpon>FormTKCa.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="View\ThongKe\ThongKeCanBo\FormTKCanBo.resx">
-      <DependentUpon>FormTKCanBo.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="View\FormTrangChu.resx">
-      <DependentUpon>FormTrangChu.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="View\DanhMucYeuCau\FormQuanLyYeuCau.resx">
       <DependentUpon>FormQuanLyYeuCau.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="View\PhanCong\RandomNhanSu.resx">
-      <DependentUpon>RandomNhanSu.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="View\ThongKe\ThongKeNgay\FormTKNgay.resx">
-      <DependentUpon>FormTKNgay.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="View\TimKiem\LichTrucf.resx">
-      <DependentUpon>LichTrucf.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="View\TimKiem\TimCanBo.resx">
-      <DependentUpon>TimCanBo.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="View\TimKiem\TimKiemCa.resx">
-      <DependentUpon>TimKiemCa.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="View\TimKiem\TimKiemNgay.resx">
-      <DependentUpon>TimKiemNgay.cs</DependentUpon>
     </EmbeddedResource>
     <EntityDeploy Include="Model\Model1.edmx">
       <Generator>EntityModelCodeGenerator</Generator>
