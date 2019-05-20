@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="QLPCNhanVienModelStoreContainer" CdmEntityContainer="QLPCNhanVienEntities1">
+    <EntitySetMapping Name="CanBo">
+      <EntityTypeMapping TypeName="QLPCNhanVienModel.CanBo">
+        <MappingFragment StoreEntitySet="CanBo">
+          <ScalarProperty Name="MaCanBo" ColumnName="MaCanBo" />
+          <ScalarProperty Name="DonViID" ColumnName="DonViID" />
+          <ScalarProperty Name="ChucVu" ColumnName="ChucVu" />
+          <ScalarProperty Name="NgaySinh" ColumnName="NgaySinh" />
+          <ScalarProperty Name="HoTen" ColumnName="HoTen" />
+          <ScalarProperty Name="CanBoID" ColumnName="CanBoID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CaTruc">
+      <EntityTypeMapping TypeName="QLPCNhanVienModel.CaTruc">
+        <MappingFragment StoreEntitySet="CaTruc">
+          <ScalarProperty Name="NguoiCan" ColumnName="NguoiCan" />
+          <ScalarProperty Name="KetThuc" ColumnName="KetThuc" />
+          <ScalarProperty Name="BatDau" ColumnName="BatDau" />
+          <ScalarProperty Name="TenCa" ColumnName="TenCa" />
+          <ScalarProperty Name="YeuCauID" ColumnName="YeuCauID" />
+          <ScalarProperty Name="CaTrucID" ColumnName="CaTrucID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DonVi">
+      <EntityTypeMapping TypeName="QLPCNhanVienModel.DonVi">
+        <MappingFragment StoreEntitySet="DonVi">
+          <ScalarProperty Name="TenDonVi" ColumnName="TenDonVi" />
+          <ScalarProperty Name="DonViID" ColumnName="DonViID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DotCongViec">
+      <EntityTypeMapping TypeName="QLPCNhanVienModel.DotCongViec">
+        <MappingFragment StoreEntitySet="DotCongViec">
+          <ScalarProperty Name="LuongNguoiCan" ColumnName="LuongNguoiCan" />
+          <ScalarProperty Name="NgayKetThuc" ColumnName="NgayKetThuc" />
+          <ScalarProperty Name="NgayBatDau" ColumnName="NgayBatDau" />
+          <ScalarProperty Name="DotCongViecID" ColumnName="DotCongViecID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PhanCong">
+      <EntityTypeMapping TypeName="QLPCNhanVienModel.PhanCong">
+        <MappingFragment StoreEntitySet="PhanCong">
+          <ScalarProperty Name="YeuCauID" ColumnName="YeuCauID" />
+          <ScalarProperty Name="PhanCongID" ColumnName="PhanCongID" />
+          <ScalarProperty Name="GhiChu" ColumnName="GhiChu" />
+          <ScalarProperty Name="CanBoID" ColumnName="CanBoID" />
+          <ScalarProperty Name="CaTrucID" ColumnName="CaTrucID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="QLPCNhanVienModel.sysdiagrams">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="definition" ColumnName="definition" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="User">
+      <EntityTypeMapping TypeName="QLPCNhanVienModel.User">
+        <MappingFragment StoreEntitySet="User">
+          <ScalarProperty Name="NgaySinh" ColumnName="NgaySinh" />
+          <ScalarProperty Name="HoTen" ColumnName="HoTen" />
+          <ScalarProperty Name="MatKhau" ColumnName="MatKhau" />
+          <ScalarProperty Name="TaiKhoan" ColumnName="TaiKhoan" />
+          <ScalarProperty Name="IDAdmin" ColumnName="IDAdmin" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="YeuCau">
+      <EntityTypeMapping TypeName="QLPCNhanVienModel.YeuCau">
+        <MappingFragment StoreEntitySet="YeuCau">
+          <ScalarProperty Name="MucGioiHan" ColumnName="MucGioiHan" />
+          <ScalarProperty Name="GioHan" ColumnName="GioHan" />
+          <ScalarProperty Name="DotCongViecID" ColumnName="DotCongViecID" />
+          <ScalarProperty Name="IDAdmin" ColumnName="IDAdmin" />
+          <ScalarProperty Name="NgayTruc" ColumnName="NgayTruc" />
+          <ScalarProperty Name="YeuCauID" ColumnName="YeuCauID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

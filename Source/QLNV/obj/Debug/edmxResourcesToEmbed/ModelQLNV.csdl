@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="QLPCNhanVienModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="BangAdmin">
+    <Key>
+      <PropertyRef Name="IDAdmin" />
+    </Key>
+    <Property Name="IDAdmin" Type="Int32" Nullable="false" />
+    <Property Name="TaiKhoan" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="MatKhau" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="HoTen" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="NgaySinh" Type="DateTime" Precision="3" />
+    <NavigationProperty Name="BangYeuCaus" Relationship="Self.FK_BangYeuCau_BangAdmin" FromRole="BangAdmin" ToRole="BangYeuCau" />
+  </EntityType>
+  <EntityType Name="BangCanBo">
+    <Key>
+      <PropertyRef Name="CanBoID" />
+    </Key>
+    <Property Name="CanBoID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="HoTen" Type="String" MaxLength="50" FixedLength="true" Unicode="true" />
+    <Property Name="NgaySinh" Type="DateTime" Precision="3" />
+    <Property Name="DonVi" Type="Int32" />
+    <Property Name="CaTruc" Type="Int32" />
+    <NavigationProperty Name="PhanCongs" Relationship="Self.FK_PhanCong_BangCanBo" FromRole="BangCanBo" ToRole="PhanCong" />
+  </EntityType>
+  <EntityType Name="BangYeuCau">
+    <Key>
+      <PropertyRef Name="YeuCauID" />
+    </Key>
+    <Property Name="YeuCauID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NgayTruc" Type="DateTimeOffset" Precision="7" />
+    <Property Name="CaTruc" Type="Int32" />
+    <Property Name="IDAdmin" Type="Int32" />
+    <Property Name="SoLuongNguoi" Type="Int32" />
+    <NavigationProperty Name="BangAdmin" Relationship="Self.FK_BangYeuCau_BangAdmin" FromRole="BangYeuCau" ToRole="BangAdmin" />
+    <NavigationProperty Name="CaTrucs" Relationship="Self.FK_CaTruc_BangYeuCau" FromRole="BangYeuCau" ToRole="CaTruc" />
+  </EntityType>
+  <EntityType Name="CaTruc">
+    <Key>
+      <PropertyRef Name="CaTrucID" />
+    </Key>
+    <Property Name="CaTrucID" Type="Int32" Nullable="false" />
+    <Property Name="YeuCauID" Type="Int32" />
+    <Property Name="TenCa" Type="String" MaxLength="15" FixedLength="false" Unicode="false" />
+    <Property Name="SoLuongPhong" Type="Int32" />
+    <NavigationProperty Name="BangYeuCau" Relationship="Self.FK_CaTruc_BangYeuCau" FromRole="CaTruc" ToRole="BangYeuCau" />
+    <NavigationProperty Name="PhanCongs" Relationship="Self.FK_PhanCong_CaTruc" FromRole="CaTruc" ToRole="PhanCong" />
+  </EntityType>
+  <EntityType Name="PhanCong">
+    <Key>
+      <PropertyRef Name="PhanCongID" />
+    </Key>
+    <Property Name="CaTrucID" Type="Int32" />
+    <Property Name="CanBoID" Type="Int32" />
+    <Property Name="GhiChu" Type="String" MaxLength="50" FixedLength="true" Unicode="true" />
+    <Property Name="PhanCongID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <NavigationProperty Name="BangCanBo" Relationship="Self.FK_PhanCong_BangCanBo" FromRole="PhanCong" ToRole="BangCanBo" />
+    <NavigationProperty Name="CaTruc" Relationship="Self.FK_PhanCong_CaTruc" FromRole="PhanCong" ToRole="CaTruc" />
+  </EntityType>
+  <EntityType Name="sysdiagram">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <Association Name="FK_BangYeuCau_BangAdmin">
+    <End Role="BangAdmin" Type="Self.BangAdmin" Multiplicity="0..1" />
+    <End Role="BangYeuCau" Type="Self.BangYeuCau" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="BangAdmin">
+        <PropertyRef Name="IDAdmin" />
+      </Principal>
+      <Dependent Role="BangYeuCau">
+        <PropertyRef Name="IDAdmin" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PhanCong_BangCanBo">
+    <End Role="BangCanBo" Type="Self.BangCanBo" Multiplicity="0..1" />
+    <End Role="PhanCong" Type="Self.PhanCong" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="BangCanBo">
+        <PropertyRef Name="CanBoID" />
+      </Principal>
+      <Dependent Role="PhanCong">
+        <PropertyRef Name="CanBoID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CaTruc_BangYeuCau">
+    <End Role="BangYeuCau" Type="Self.BangYeuCau" Multiplicity="0..1" />
+    <End Role="CaTruc" Type="Self.CaTruc" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="BangYeuCau">
+        <PropertyRef Name="YeuCauID" />
+      </Principal>
+      <Dependent Role="CaTruc">
+        <PropertyRef Name="YeuCauID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PhanCong_CaTruc">
+    <End Role="CaTruc" Type="Self.CaTruc" Multiplicity="0..1" />
+    <End Role="PhanCong" Type="Self.PhanCong" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CaTruc">
+        <PropertyRef Name="CaTrucID" />
+      </Principal>
+      <Dependent Role="PhanCong">
+        <PropertyRef Name="CaTrucID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="QLPCNhanVienEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="BangAdmins" EntityType="Self.BangAdmin" />
+    <EntitySet Name="BangCanBoes" EntityType="Self.BangCanBo" />
+    <EntitySet Name="BangYeuCaus" EntityType="Self.BangYeuCau" />
+    <EntitySet Name="CaTrucs" EntityType="Self.CaTruc" />
+    <EntitySet Name="PhanCongs" EntityType="Self.PhanCong" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagram" />
+    <AssociationSet Name="FK_BangYeuCau_BangAdmin" Association="Self.FK_BangYeuCau_BangAdmin">
+      <End Role="BangAdmin" EntitySet="BangAdmins" />
+      <End Role="BangYeuCau" EntitySet="BangYeuCaus" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PhanCong_BangCanBo" Association="Self.FK_PhanCong_BangCanBo">
+      <End Role="BangCanBo" EntitySet="BangCanBoes" />
+      <End Role="PhanCong" EntitySet="PhanCongs" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CaTruc_BangYeuCau" Association="Self.FK_CaTruc_BangYeuCau">
+      <End Role="BangYeuCau" EntitySet="BangYeuCaus" />
+      <End Role="CaTruc" EntitySet="CaTrucs" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PhanCong_CaTruc" Association="Self.FK_PhanCong_CaTruc">
+      <End Role="CaTruc" EntitySet="CaTrucs" />
+      <End Role="PhanCong" EntitySet="PhanCongs" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

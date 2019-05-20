@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="QLPCNhanVienModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="BangAdmin">
+    <Key>
+      <PropertyRef Name="IDAdmin" />
+    </Key>
+    <Property Name="IDAdmin" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TaiKhoan" Type="varchar" MaxLength="50" />
+    <Property Name="MatKhau" Type="varchar" MaxLength="50" />
+    <Property Name="HoTen" Type="nvarchar" MaxLength="50" />
+    <Property Name="NgaySinh" Type="datetime" />
+  </EntityType>
+  <EntityType Name="BangCanBo">
+    <Key>
+      <PropertyRef Name="CanBoID" />
+    </Key>
+    <Property Name="CanBoID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="HoTen" Type="nchar" MaxLength="50" />
+    <Property Name="NgaySinh" Type="datetime" />
+    <Property Name="DonVi" Type="int" />
+    <Property Name="CaTruc" Type="int" />
+  </EntityType>
+  <EntityType Name="BangYeuCau">
+    <Key>
+      <PropertyRef Name="YeuCauID" />
+    </Key>
+    <Property Name="YeuCauID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="NgayTruc" Type="datetimeoffset" Precision="7" />
+    <Property Name="CaTruc" Type="int" />
+    <Property Name="IDAdmin" Type="int" />
+    <Property Name="SoLuongNguoi" Type="int" />
+  </EntityType>
+  <EntityType Name="CaTruc">
+    <Key>
+      <PropertyRef Name="CaTrucID" />
+    </Key>
+    <Property Name="CaTrucID" Type="int" Nullable="false" />
+    <Property Name="YeuCauID" Type="int" />
+    <Property Name="TenCa" Type="varchar" MaxLength="15" />
+    <Property Name="SoLuongPhong" Type="int" />
+  </EntityType>
+  <EntityType Name="PhanCong">
+    <Key>
+      <PropertyRef Name="PhanCongID" />
+    </Key>
+    <Property Name="CaTrucID" Type="int" />
+    <Property Name="CanBoID" Type="int" />
+    <Property Name="GhiChu" Type="nchar" MaxLength="50" />
+    <Property Name="PhanCongID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <Association Name="FK_BangYeuCau_BangAdmin">
+    <End Role="BangAdmin" Type="Self.BangAdmin" Multiplicity="0..1" />
+    <End Role="BangYeuCau" Type="Self.BangYeuCau" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="BangAdmin">
+        <PropertyRef Name="IDAdmin" />
+      </Principal>
+      <Dependent Role="BangYeuCau">
+        <PropertyRef Name="IDAdmin" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CaTruc_BangYeuCau">
+    <End Role="BangYeuCau" Type="Self.BangYeuCau" Multiplicity="0..1" />
+    <End Role="CaTruc" Type="Self.CaTruc" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="BangYeuCau">
+        <PropertyRef Name="YeuCauID" />
+      </Principal>
+      <Dependent Role="CaTruc">
+        <PropertyRef Name="YeuCauID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PhanCong_BangCanBo">
+    <End Role="BangCanBo" Type="Self.BangCanBo" Multiplicity="0..1" />
+    <End Role="PhanCong" Type="Self.PhanCong" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="BangCanBo">
+        <PropertyRef Name="CanBoID" />
+      </Principal>
+      <Dependent Role="PhanCong">
+        <PropertyRef Name="CanBoID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PhanCong_CaTruc">
+    <End Role="CaTruc" Type="Self.CaTruc" Multiplicity="0..1" />
+    <End Role="PhanCong" Type="Self.PhanCong" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CaTruc">
+        <PropertyRef Name="CaTrucID" />
+      </Principal>
+      <Dependent Role="PhanCong">
+        <PropertyRef Name="CaTrucID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="QLPCNhanVienModelStoreContainer">
+    <EntitySet Name="BangAdmin" EntityType="Self.BangAdmin" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="BangCanBo" EntityType="Self.BangCanBo" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="BangYeuCau" EntityType="Self.BangYeuCau" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="CaTruc" EntityType="Self.CaTruc" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="PhanCong" EntityType="Self.PhanCong" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_BangYeuCau_BangAdmin" Association="Self.FK_BangYeuCau_BangAdmin">
+      <End Role="BangAdmin" EntitySet="BangAdmin" />
+      <End Role="BangYeuCau" EntitySet="BangYeuCau" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CaTruc_BangYeuCau" Association="Self.FK_CaTruc_BangYeuCau">
+      <End Role="BangYeuCau" EntitySet="BangYeuCau" />
+      <End Role="CaTruc" EntitySet="CaTruc" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PhanCong_BangCanBo" Association="Self.FK_PhanCong_BangCanBo">
+      <End Role="BangCanBo" EntitySet="BangCanBo" />
+      <End Role="PhanCong" EntitySet="PhanCong" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PhanCong_CaTruc" Association="Self.FK_PhanCong_CaTruc">
+      <End Role="CaTruc" EntitySet="CaTruc" />
+      <End Role="PhanCong" EntitySet="PhanCong" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
