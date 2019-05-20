@@ -14,7 +14,7 @@ namespace QLNV.APIS
         {
             return db.CanBo;
         }
-        //GetCanBo
+        //GetCB
         public CanBo GetCanBoID(int Id)
         {
             return db.CanBo.SingleOrDefault(x => x.CanBoID == Id);
@@ -36,7 +36,7 @@ namespace QLNV.APIS
             return db.CanBo.SingleOrDefault(x => x.NgaySinh == ngaySinh);
         }
         
-        //PostCanBo
+        //PostCB
         public void PostCanBo(CanBo canBo)
         {
             if(canBo == null)
@@ -52,7 +52,7 @@ namespace QLNV.APIS
         }
         //PostYeuCau
      
-        //UpdateCanBo
+        //UpdateCB
         public void UpdateCanBo(CanBo canBo)
         {
             CanBo CanBo=db.CanBo.SingleOrDefault(x => x.CanBoID == canBo.CanBoID);
@@ -70,7 +70,7 @@ namespace QLNV.APIS
         }
         //UpdateYeuCau
        
-        //DeleteCanBo
+        //DeleteCB
         public void DeleteCanBo(CanBo canBo)
         {
             CanBo CanBo = db.CanBo.SingleOrDefault(x => x.CanBoID == canBo.CanBoID);
