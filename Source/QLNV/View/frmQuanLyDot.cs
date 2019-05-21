@@ -33,9 +33,9 @@ namespace QLNV.View
         }
         private void btnThem_Click(object sender, EventArgs e)
         {
-            //TaoDotCongViet frm = new TaoDotCongViet();
-            //frm.ShowDialog();
-            //GetData();
+            TaoDotCongViet frm = new TaoDotCongViet();
+            frm.ShowDialog();
+            GetData();
         }
 
         private void btnXoa_Click(object sender, EventArgs e)
