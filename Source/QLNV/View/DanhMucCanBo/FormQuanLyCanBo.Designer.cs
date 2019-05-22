@@ -113,7 +113,6 @@
             // 
             // canBoBindingSource
             // 
-            this.canBoBindingSource.DataSource = typeof(QLNV.Model.CanBo);
             // 
             // groupBox1
             // 
