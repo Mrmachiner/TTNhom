@@ -828,7 +828,6 @@ D:\GitTest\Source\QLNV\obj\Debug\QLNV.View.DanhMucCanBo.XemCanBo.resources
 D:\GitTest\Source\QLNV\obj\Debug\QLNV.View.DanhMucCanBo.XoaCanBo.resources
 D:\GitTest\Source\QLNV\obj\Debug\QLNV.View.DanhMucYeuCau.SuaYeuCau.resources
 D:\GitTest\Source\QLNV\obj\Debug\QLNV.View.DanhMucYeuCau.XoaYeuCau.resources
-D:\GitTest\Source\QLNV\obj\Debug\QLNV.View.DanhMucDot.frmQuanLyDot.resources
 D:\GitTest\Source\QLNV\obj\Debug\QLNV.View.In.FormIn.resources
 D:\GitTest\Source\QLNV\obj\Debug\QLNV.FormQuanLyCanBo.resources
 D:\GitTest\Source\QLNV\obj\Debug\QLNV.View.FormSuaYeuCau.resources
@@ -849,3 +848,4 @@ D:\GitTest\Source\QLNV\bin\Debug\EntityFramework.xml
 D:\GitTest\Source\QLNV\bin\Debug\EntityFramework.SqlServer.xml
 D:\GitTest\Source\QLNV\obj\Debug\QLNV.csproj.CopyComplete
 D:\GitTest\Source\QLNV\obj\Debug\QLNV.View.frmQuanLyDot.resources
+D:\GitTest\Source\QLNV\obj\Debug\QLNV.csprojAssemblyReference.cache
