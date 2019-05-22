@@ -181,7 +181,7 @@
             this.Controls.Add(this.groupBox1);
             this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Name = "TimCanBo";
-            this.Text = "TimCanBo";
+            this.Text = "Tìm Cán Bộ";
             this.Load += new System.EventHandler(this.TimCanBo_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();

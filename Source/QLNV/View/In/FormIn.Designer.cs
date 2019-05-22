@@ -31,14 +31,14 @@
             this.groupBox2 = new System.Windows.Forms.GroupBox();
             this.dtGridThongKe = new System.Windows.Forms.DataGridView();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.label1 = new System.Windows.Forms.Label();
+            this.txtTenFile = new System.Windows.Forms.TextBox();
             this.button1 = new System.Windows.Forms.Button();
             this.btnThongKe = new System.Windows.Forms.Button();
             this.tuNgay = new System.Windows.Forms.DateTimePicker();
             this.lable = new System.Windows.Forms.Label();
             this.denNgay = new System.Windows.Forms.DateTimePicker();
-            this.txtTenFile = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
-            this.label1 = new System.Windows.Forms.Label();
             this.groupBox2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dtGridThongKe)).BeginInit();
             this.groupBox1.SuspendLayout();
@@ -83,6 +83,22 @@
             this.groupBox1.TabIndex = 14;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Thông Tin Tìm Kiếm";
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(530, 18);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(59, 17);
+            this.label1.TabIndex = 6;
+            this.label1.Text = "Tên File";
+            // 
+            // txtTenFile
+            // 
+            this.txtTenFile.Location = new System.Drawing.Point(530, 38);
+            this.txtTenFile.Name = "txtTenFile";
+            this.txtTenFile.Size = new System.Drawing.Size(116, 22);
+            this.txtTenFile.TabIndex = 5;
             // 
             // button1
             // 
@@ -140,13 +156,6 @@
             this.denNgay.Size = new System.Drawing.Size(172, 22);
             this.denNgay.TabIndex = 1;
             // 
-            // txtTenFile
-            // 
-            this.txtTenFile.Location = new System.Drawing.Point(530, 38);
-            this.txtTenFile.Name = "txtTenFile";
-            this.txtTenFile.Size = new System.Drawing.Size(116, 22);
-            this.txtTenFile.TabIndex = 5;
-            // 
             // label2
             // 
             this.label2.AutoSize = true;
@@ -156,15 +165,6 @@
             this.label2.TabIndex = 2;
             this.label2.Text = "Đến";
             // 
-            // label1
-            // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(530, 18);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(59, 17);
-            this.label1.TabIndex = 6;
-            this.label1.Text = "Tên File";
-            // 
             // FormIn
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -173,7 +173,7 @@
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
             this.Name = "FormIn";
-            this.Text = "FormIn";
+            this.Text = "Xuất File Excel";
             this.groupBox2.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.dtGridThongKe)).EndInit();
             this.groupBox1.ResumeLayout(false);

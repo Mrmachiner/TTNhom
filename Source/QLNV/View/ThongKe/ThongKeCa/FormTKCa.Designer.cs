@@ -263,7 +263,7 @@
             this.Controls.Add(this.groupBox1);
             this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Name = "FormTKCa";
-            this.Text = "FormTKCa";
+            this.Text = "Thống Kê Theo Ca";
             this.Load += new System.EventHandler(this.FormTKCa_Load);
             this.groupBox2.ResumeLayout(false);
             this.groupBox2.PerformLayout();

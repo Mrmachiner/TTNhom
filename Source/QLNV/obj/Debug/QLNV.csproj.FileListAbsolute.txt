@@ -849,3 +849,17 @@ D:\GitTest\Source\QLNV\bin\Debug\EntityFramework.SqlServer.xml
 D:\GitTest\Source\QLNV\obj\Debug\QLNV.csproj.CopyComplete
 D:\GitTest\Source\QLNV\obj\Debug\QLNV.View.frmQuanLyDot.resources
 D:\GitTest\Source\QLNV\obj\Debug\QLNV.csprojAssemblyReference.cache
+D:\GitTest\Source\QLNV\obj\Debug\QLNV.View.DanhMucDot.frmQuanLyDot.resources
+D:\GitTest\Source\QLNV\obj\Debug\QLNV.View.DanhSachCanBo.resources
+D:\GitTest\Source\QLNV\obj\Debug\QLNV.FormDangNhap.resources
+D:\GitTest\Source\QLNV\obj\Debug\QLNV.FormTrangChu.resources
+D:\GitTest\Source\QLNV\obj\Debug\QLNV.View.FormChonCa.resources
+D:\GitTest\Source\QLNV\obj\Debug\QLNV.View.RandomNhanSu.resources
+D:\GitTest\Source\QLNV\obj\Debug\QLNV.View.TaoDotCongViet.resources
+D:\GitTest\Source\QLNV\obj\Debug\QLNV.View.FormTKCanBo.resources
+D:\GitTest\Source\QLNV\obj\Debug\QLNV.View.FormTKCa.resources
+D:\GitTest\Source\QLNV\obj\Debug\QLNV.View.FormTKNgay.resources
+D:\GitTest\Source\QLNV\obj\Debug\QLNV.View.TimKiem.LichTrucf.resources
+D:\GitTest\Source\QLNV\obj\Debug\QLNV.View.TimCanBo.resources
+D:\GitTest\Source\QLNV\obj\Debug\QLNV.View.TimKiem.TimKiemCa.resources
+D:\GitTest\Source\QLNV\obj\Debug\QLNV.View.TimKiem.TimKiemNgay.resources

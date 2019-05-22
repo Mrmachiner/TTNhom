@@ -312,39 +312,48 @@ namespace QLNV.View
         //Tạo Đợt???/?
         private void button1_Click(object sender, EventArgs e)
         {
+            
             CaTruc caTruc = db.CaTruc.SingleOrDefault(x => x.BatDau.Value == dtNgayTruc.Value.Date);
-            yeuCauEdit = db.YeuCau.SingleOrDefault(x => x.NgayTruc.Value == dtNgayTruc.Value.Date);
-            GioiHan = (int)yeuCauEdit.DotCongViec.LuongNguoiCan / db.CanBo.ToList().Count;
-            MucGioiHan = GioiHan * db.CanBo.ToList().Count;
-            if(yeuCauEdit    == null)
+            if (yeuCauEdit == null)
             {
-                txtDot.Text = "";
-                txtDenNgay.Text = "";
-                txtTuNgay.Text = "";
+                MessageBox.Show("Ngay ngay khong co Yc");
             }
             else
             {
-                txtDot.Text = "Đợt" + yeuCauEdit.DotCongViec.DotCongViecID;
-                txtDenNgay.Text = yeuCauEdit.DotCongViec.NgayKetThuc.Value.Date.ToShortDateString();
-                txtTuNgay.Text = yeuCauEdit.DotCongViec.NgayBatDau.Value.Date.ToShortDateString();
-            }
-           
-            if (yeuCauEdit != null)
-            {
-                caTrucEdit = null;
-                LoadingCaTruc();
-                GetDataCaTruc();
-                if (canBoBindingSource2.Count != 0)
+                yeuCauEdit = db.YeuCau.SingleOrDefault(x => x.NgayTruc.Value == dtNgayTruc.Value.Date);
+                GioiHan = (int)yeuCauEdit.DotCongViec.LuongNguoiCan / db.CanBo.ToList().Count;
+
+                MucGioiHan = GioiHan * db.CanBo.ToList().Count;
+                if (yeuCauEdit == null)
                 {
-                    dtGribPhai.DataSource = null;
+                    txtDot.Text = "";
+                    txtDenNgay.Text = "";
+                    txtTuNgay.Text = "";
                 }
-            }
-            else
-            {
-                if(MessageBox.Show("Yêu Cầu chưa được tạo. Bạn muốn tạo yêu cầu?","Mesage", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
+                else
                 {
-                    FormSuaYeuCau formSuaYeuCau = new FormSuaYeuCau(null);
-                    formSuaYeuCau.ShowDialog();
+                    txtDot.Text = "Đợt" + yeuCauEdit.DotCongViec.DotCongViecID;
+                    txtDenNgay.Text = yeuCauEdit.DotCongViec.NgayKetThuc.Value.Date.ToShortDateString();
+                    txtTuNgay.Text = yeuCauEdit.DotCongViec.NgayBatDau.Value.Date.ToShortDateString();
+                }
+
+                if (yeuCauEdit != null)
+                {
+                    caTrucEdit = null;
+                    LoadingCaTruc();
+                    GetDataCaTruc();
+                    if (canBoBindingSource2.Count != 0)
+                    {
+                        dtGribPhai.DataSource = null;
+                    }
+                }
+                else
+                {
+                    if (MessageBox.Show("Yêu Cầu chưa được tạo. Bạn muốn tạo yêu cầu?", "Mesage", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
+                    {
+                        FormSuaYeuCau formSuaYeuCau = new FormSuaYeuCau(null);
+                        formSuaYeuCau.ShowDialog();
+                    }
                 }
             }
         }

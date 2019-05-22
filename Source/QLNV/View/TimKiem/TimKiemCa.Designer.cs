@@ -158,7 +158,7 @@
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
             this.Name = "TimKiemCa";
-            this.Text = "TimKiemCa";
+            this.Text = "Tìm Kiếm Ca";
             this.Load += new System.EventHandler(this.TimKiemCa_Load);
             this.groupBox2.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.dtGridTimCa)).EndInit();

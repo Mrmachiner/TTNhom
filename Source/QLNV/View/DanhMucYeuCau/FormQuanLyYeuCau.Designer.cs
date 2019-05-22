@@ -129,7 +129,6 @@
             // 
             // caTrucBindingSource
             // 
-            this.caTrucBindingSource.DataSource = typeof(QLNV.Model.CaTruc);
             // 
             // dtTimKiem
             // 
@@ -252,7 +251,6 @@
             // 
             // yeuCauBindingSource
             // 
-            this.yeuCauBindingSource.DataSource = typeof(QLNV.Model.YeuCau);
             this.yeuCauBindingSource.CurrentChanged += new System.EventHandler(this.yeuCauBindingSource_CurrentChanged);
             // 
             // button1
