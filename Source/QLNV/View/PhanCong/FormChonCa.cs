@@ -62,6 +62,12 @@ namespace QLNV.View
                 {
                     CanBo canBoRow = (CanBo)row.DataBoundItem;
                     CanBo canBo = db.CanBo.SingleOrDefault(x => x.CanBoID == canBoRow.CanBoID);
+                    PhanCong phanCong1 = canBo.PhanCong.Where(x => x.CaTruc.YeuCau.NgayTruc == yeuCauEdit.NgayTruc).FirstOrDefault();
+                    if(phanCong1 != null)
+                    {
+                        MessageBox.Show("Da truc");
+                        return;
+                    }
                     if (lstCBPhanCong.Count < caTrucEdit.NguoiCan)
                     {
                         List<PhanCong> lstPhancong = new List<PhanCong>();
@@ -83,6 +89,7 @@ namespace QLNV.View
                             {
                                 foreach (PhanCong phanCong in lstPhancong)
                                 {
+                                   
                                     if (DateTime.Compare((DateTime)phanCong.CaTruc.BatDau, (DateTime)caTrucEdit.BatDau) == 0 && DateTime.Compare((DateTime)caTrucEdit.BatDau, (DateTime)phanCong.CaTruc.KetThuc) == -1)
                                     {
                                         MessageBox.Show("Cán bộ " + canBo.HoTen + "trùng ca trực");
@@ -314,12 +321,7 @@ namespace QLNV.View
         {
             
             CaTruc caTruc = db.CaTruc.SingleOrDefault(x => x.BatDau.Value == dtNgayTruc.Value.Date);
-            if (yeuCauEdit == null)
-            {
-                MessageBox.Show("Ngay ngay khong co Yc");
-            }
-            else
-            {
+
                 yeuCauEdit = db.YeuCau.SingleOrDefault(x => x.NgayTruc.Value == dtNgayTruc.Value.Date);
                 GioiHan = (int)yeuCauEdit.DotCongViec.LuongNguoiCan / db.CanBo.ToList().Count;
 
@@ -355,7 +357,7 @@ namespace QLNV.View
                         formSuaYeuCau.ShowDialog();
                     }
                 }
-            }
+            
         }
 
         private void txtNhanVien_TextChanged(object sender, EventArgs e)

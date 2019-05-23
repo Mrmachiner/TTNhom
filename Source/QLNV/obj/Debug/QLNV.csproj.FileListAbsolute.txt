@@ -848,8 +848,6 @@ D:\GitTest\Source\QLNV\bin\Debug\EntityFramework.xml
 D:\GitTest\Source\QLNV\bin\Debug\EntityFramework.SqlServer.xml
 D:\GitTest\Source\QLNV\obj\Debug\QLNV.csproj.CopyComplete
 D:\GitTest\Source\QLNV\obj\Debug\QLNV.View.frmQuanLyDot.resources
-D:\GitTest\Source\QLNV\obj\Debug\QLNV.csprojAssemblyReference.cache
-D:\GitTest\Source\QLNV\obj\Debug\QLNV.View.DanhMucDot.frmQuanLyDot.resources
 D:\GitTest\Source\QLNV\obj\Debug\QLNV.View.DanhSachCanBo.resources
 D:\GitTest\Source\QLNV\obj\Debug\QLNV.FormDangNhap.resources
 D:\GitTest\Source\QLNV\obj\Debug\QLNV.FormTrangChu.resources

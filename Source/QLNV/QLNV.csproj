@@ -133,12 +133,6 @@
     <Compile Include="View\DanhMucCanBo\XoaCanBo.Designer.cs">
       <DependentUpon>XoaCanBo.cs</DependentUpon>
     </Compile>
-    <Compile Include="View\DanhMucDot\frmQuanLyDot.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="View\DanhMucDot\frmQuanLyDot.Designer.cs">
-      <DependentUpon>frmQuanLyDot.cs</DependentUpon>
-    </Compile>
     <Compile Include="View\DanhMucYeuCau\SuaYeuCau.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -279,9 +273,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="View\DanhMucCanBo\XoaCanBo.resx">
       <DependentUpon>XoaCanBo.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="View\DanhMucDot\frmQuanLyDot.resx">
-      <DependentUpon>frmQuanLyDot.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="View\DanhMucYeuCau\SuaYeuCau.resx">
       <DependentUpon>SuaYeuCau.cs</DependentUpon>

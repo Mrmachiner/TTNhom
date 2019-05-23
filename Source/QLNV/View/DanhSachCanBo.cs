@@ -32,7 +32,6 @@ namespace QLNV.View
             dtDanhSanh.Columns.Remove("CanBoID");
             dtDanhSanh.Columns.Remove("DonViID");
             dtDanhSanh.Columns.Remove("PhanCong");
-           
             dtDanhSanh.Columns.Remove("DonVi");
             
 

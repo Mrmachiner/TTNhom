@@ -181,11 +181,11 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(777, 554);
+            this.ClientSize = new System.Drawing.Size(777, 482);
             this.Controls.Add(this.btnXoa);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.dtGridXoaCanBo);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "XoaCanBo";
             this.Text = "XoaCanBo";
             this.Load += new System.EventHandler(this.XoaCanBo_Load);
