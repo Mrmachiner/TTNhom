@@ -1,0 +1,218 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="QLPCNhanVienModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="QLPCNhanVienEntities1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="CanBo" EntityType="QLPCNhanVienModel.CanBo" />
+    <EntitySet Name="CaTruc" EntityType="QLPCNhanVienModel.CaTruc" />
+    <EntitySet Name="DonVi" EntityType="QLPCNhanVienModel.DonVi" />
+    <EntitySet Name="DotCongViec" EntityType="QLPCNhanVienModel.DotCongViec" />
+    <EntitySet Name="PhanCong" EntityType="QLPCNhanVienModel.PhanCong" />
+    <EntitySet Name="sysdiagrams" EntityType="QLPCNhanVienModel.sysdiagrams" />
+    <EntitySet Name="User" EntityType="QLPCNhanVienModel.User" />
+    <EntitySet Name="YeuCau" EntityType="QLPCNhanVienModel.YeuCau" />
+    <AssociationSet Name="FK_CanBo_DonVi" Association="QLPCNhanVienModel.FK_CanBo_DonVi">
+      <End Role="DonVi" EntitySet="DonVi" />
+      <End Role="CanBo" EntitySet="CanBo" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PhanCong_BangCanBo" Association="QLPCNhanVienModel.FK_PhanCong_BangCanBo">
+      <End Role="CanBo" EntitySet="CanBo" />
+      <End Role="PhanCong" EntitySet="PhanCong" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CaTruc_YeuCau" Association="QLPCNhanVienModel.FK_CaTruc_YeuCau">
+      <End Role="YeuCau" EntitySet="YeuCau" />
+      <End Role="CaTruc" EntitySet="CaTruc" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PhanCong_CaTruc" Association="QLPCNhanVienModel.FK_PhanCong_CaTruc">
+      <End Role="CaTruc" EntitySet="CaTruc" />
+      <End Role="PhanCong" EntitySet="PhanCong" />
+    </AssociationSet>
+    <AssociationSet Name="FK_YeuCau_DotCongViec" Association="QLPCNhanVienModel.FK_YeuCau_DotCongViec">
+      <End Role="DotCongViec" EntitySet="DotCongViec" />
+      <End Role="YeuCau" EntitySet="YeuCau" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PhanCong_YeuCau1" Association="QLPCNhanVienModel.FK_PhanCong_YeuCau1">
+      <End Role="YeuCau" EntitySet="YeuCau" />
+      <End Role="PhanCong" EntitySet="PhanCong" />
+    </AssociationSet>
+    <AssociationSet Name="FK_YeuCau_User" Association="QLPCNhanVienModel.FK_YeuCau_User">
+      <End Role="User" EntitySet="User" />
+      <End Role="YeuCau" EntitySet="YeuCau" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="CanBo">
+    <Key>
+      <PropertyRef Name="CanBoID" />
+    </Key>
+    <Property Name="CanBoID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="HoTen" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="NgaySinh" Type="DateTime" Precision="3" />
+    <Property Name="ChucVu" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="DonViID" Type="Int32" />
+    <Property Name="MaCanBo" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="DonVi" Relationship="QLPCNhanVienModel.FK_CanBo_DonVi" FromRole="CanBo" ToRole="DonVi" />
+    <NavigationProperty Name="PhanCong" Relationship="QLPCNhanVienModel.FK_PhanCong_BangCanBo" FromRole="CanBo" ToRole="PhanCong" />
+  </EntityType>
+  <EntityType Name="CaTruc">
+    <Key>
+      <PropertyRef Name="CaTrucID" />
+    </Key>
+    <Property Name="CaTrucID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="YeuCauID" Type="Int32" />
+    <Property Name="TenCa" Type="String" MaxLength="15" FixedLength="false" Unicode="false" />
+    <Property Name="BatDau" Type="DateTime" Precision="3" />
+    <Property Name="KetThuc" Type="DateTime" Precision="3" />
+    <Property Name="NguoiCan" Type="Int32" />
+    <NavigationProperty Name="YeuCau" Relationship="QLPCNhanVienModel.FK_CaTruc_YeuCau" FromRole="CaTruc" ToRole="YeuCau" />
+    <NavigationProperty Name="PhanCong" Relationship="QLPCNhanVienModel.FK_PhanCong_CaTruc" FromRole="CaTruc" ToRole="PhanCong" />
+  </EntityType>
+  <EntityType Name="DonVi">
+    <Key>
+      <PropertyRef Name="DonViID" />
+    </Key>
+    <Property Name="DonViID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TenDonVi" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="CanBo" Relationship="QLPCNhanVienModel.FK_CanBo_DonVi" FromRole="DonVi" ToRole="CanBo" />
+  </EntityType>
+  <EntityType Name="DotCongViec">
+    <Key>
+      <PropertyRef Name="DotCongViecID" />
+    </Key>
+    <Property Name="DotCongViecID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NgayBatDau" Type="DateTime" Precision="0" />
+    <Property Name="NgayKetThuc" Type="DateTime" Precision="0" />
+    <Property Name="LuongNguoiCan" Type="Int32" />
+    <NavigationProperty Name="YeuCau" Relationship="QLPCNhanVienModel.FK_YeuCau_DotCongViec" FromRole="DotCongViec" ToRole="YeuCau" />
+  </EntityType>
+  <EntityType Name="PhanCong">
+    <Key>
+      <PropertyRef Name="PhanCongID" />
+    </Key>
+    <Property Name="CaTrucID" Type="Int32" />
+    <Property Name="CanBoID" Type="Int32" />
+    <Property Name="GhiChu" Type="String" MaxLength="50" FixedLength="true" Unicode="true" />
+    <Property Name="PhanCongID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="YeuCauID" Type="Int32" />
+    <NavigationProperty Name="CanBo" Relationship="QLPCNhanVienModel.FK_PhanCong_BangCanBo" FromRole="PhanCong" ToRole="CanBo" />
+    <NavigationProperty Name="CaTruc" Relationship="QLPCNhanVienModel.FK_PhanCong_CaTruc" FromRole="PhanCong" ToRole="CaTruc" />
+    <NavigationProperty Name="YeuCau" Relationship="QLPCNhanVienModel.FK_PhanCong_YeuCau1" FromRole="PhanCong" ToRole="YeuCau" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" Nullable="false" MaxLength="128" FixedLength="false" Unicode="true" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="IDAdmin" />
+    </Key>
+    <Property Name="IDAdmin" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TaiKhoan" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="MatKhau" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="HoTen" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="NgaySinh" Type="DateTime" Precision="3" />
+    <NavigationProperty Name="YeuCau" Relationship="QLPCNhanVienModel.FK_YeuCau_User" FromRole="User" ToRole="YeuCau" />
+  </EntityType>
+  <EntityType Name="YeuCau">
+    <Key>
+      <PropertyRef Name="YeuCauID" />
+    </Key>
+    <Property Name="YeuCauID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NgayTruc" Type="DateTimeOffset" Precision="7" />
+    <Property Name="IDAdmin" Type="Int32" />
+    <Property Name="DotCongViecID" Type="Int32" />
+    <Property Name="GioHan" Type="Int32" />
+    <Property Name="MucGioiHan" Type="Int32" />
+    <NavigationProperty Name="CaTruc" Relationship="QLPCNhanVienModel.FK_CaTruc_YeuCau" FromRole="YeuCau" ToRole="CaTruc" />
+    <NavigationProperty Name="DotCongViec" Relationship="QLPCNhanVienModel.FK_YeuCau_DotCongViec" FromRole="YeuCau" ToRole="DotCongViec" />
+    <NavigationProperty Name="PhanCong" Relationship="QLPCNhanVienModel.FK_PhanCong_YeuCau1" FromRole="YeuCau" ToRole="PhanCong" />
+    <NavigationProperty Name="User" Relationship="QLPCNhanVienModel.FK_YeuCau_User" FromRole="YeuCau" ToRole="User" />
+  </EntityType>
+  <Association Name="FK_CanBo_DonVi">
+    <End Type="QLPCNhanVienModel.DonVi" Role="DonVi" Multiplicity="0..1" />
+    <End Type="QLPCNhanVienModel.CanBo" Role="CanBo" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="DonVi">
+        <PropertyRef Name="DonViID" />
+      </Principal>
+      <Dependent Role="CanBo">
+        <PropertyRef Name="DonViID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PhanCong_BangCanBo">
+    <End Type="QLPCNhanVienModel.CanBo" Role="CanBo" Multiplicity="0..1" />
+    <End Type="QLPCNhanVienModel.PhanCong" Role="PhanCong" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CanBo">
+        <PropertyRef Name="CanBoID" />
+      </Principal>
+      <Dependent Role="PhanCong">
+        <PropertyRef Name="CanBoID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CaTruc_YeuCau">
+    <End Type="QLPCNhanVienModel.YeuCau" Role="YeuCau" Multiplicity="0..1" />
+    <End Type="QLPCNhanVienModel.CaTruc" Role="CaTruc" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="YeuCau">
+        <PropertyRef Name="YeuCauID" />
+      </Principal>
+      <Dependent Role="CaTruc">
+        <PropertyRef Name="YeuCauID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PhanCong_CaTruc">
+    <End Type="QLPCNhanVienModel.CaTruc" Role="CaTruc" Multiplicity="0..1" />
+    <End Type="QLPCNhanVienModel.PhanCong" Role="PhanCong" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CaTruc">
+        <PropertyRef Name="CaTrucID" />
+      </Principal>
+      <Dependent Role="PhanCong">
+        <PropertyRef Name="CaTrucID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_YeuCau_DotCongViec">
+    <End Type="QLPCNhanVienModel.DotCongViec" Role="DotCongViec" Multiplicity="0..1" />
+    <End Type="QLPCNhanVienModel.YeuCau" Role="YeuCau" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="DotCongViec">
+        <PropertyRef Name="DotCongViecID" />
+      </Principal>
+      <Dependent Role="YeuCau">
+        <PropertyRef Name="DotCongViecID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PhanCong_YeuCau1">
+    <End Type="QLPCNhanVienModel.YeuCau" Role="YeuCau" Multiplicity="0..1" />
+    <End Type="QLPCNhanVienModel.PhanCong" Role="PhanCong" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="YeuCau">
+        <PropertyRef Name="YeuCauID" />
+      </Principal>
+      <Dependent Role="PhanCong">
+        <PropertyRef Name="YeuCauID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_YeuCau_User">
+    <End Type="QLPCNhanVienModel.User" Role="User" Multiplicity="0..1" />
+    <End Type="QLPCNhanVienModel.YeuCau" Role="YeuCau" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="IDAdmin" />
+      </Principal>
+      <Dependent Role="YeuCau">
+        <PropertyRef Name="IDAdmin" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

@@ -75,6 +75,10 @@ namespace QLNV.View
         {
 
         }
+
+        private void dtDenNgay_ValueChanged(object sender, EventArgs e)
+        {
+        }
     }
 }
 

@@ -1,0 +1,825 @@
+C:\Users\Admin\source\repos\QLNV\QLNV\bin\Debug\QLNV.exe.config
+C:\Users\Admin\source\repos\QLNV\QLNV\bin\Debug\QLNV.exe
+C:\Users\Admin\source\repos\QLNV\QLNV\bin\Debug\QLNV.pdb
+C:\Users\Admin\source\repos\QLNV\QLNV\obj\Debug\QLNV.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\QLNV\QLNV\obj\Debug\QLNV.Properties.Resources.resources
+C:\Users\Admin\source\repos\QLNV\QLNV\obj\Debug\QLNV.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\QLNV\QLNV\obj\Debug\QLNV.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\QLNV\QLNV\obj\Debug\QLNV.exe
+C:\Users\Admin\source\repos\QLNV\QLNV\obj\Debug\QLNV.pdb
+C:\Users\Admin\source\repos\QLNV\QLNV\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\QLNV\QLNV\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\QLNV\QLNV\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\QLNV\QLNV\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\QLNV\QLNV\obj\Debug\QLNV.FormTrangChu.resources
+C:\Users\Admin\source\repos\QLNV\QLNV\obj\Debug\QLNV.FormQuanLyYeuCau.resources
+C:\Users\Admin\source\repos\QLNV\QLNV\obj\Debug\QLNV.FormChonCa.resources
+C:\Users\Admin\source\repos\QLNV\QLNV\obj\Debug\QLNV.csproj.CopyComplete
+C:\Users\Admin\source\repos\QLNV\QLNV\obj\Debug\QLNV.FormDangNhap.resources
+C:\Users\Admin\source\repos\QLNV\QLNV\obj\Debug\QLNV.FormQuanLyCanBo.resources
+C:\Users\Admin\Desktop\Git\ProjectQLPCNV\QLNV\QLNV\bin\Debug\QLNV.exe.config
+C:\Users\Admin\Desktop\Git\ProjectQLPCNV\QLNV\QLNV\bin\Debug\QLNV.exe
+C:\Users\Admin\Desktop\Git\ProjectQLPCNV\QLNV\QLNV\bin\Debug\QLNV.pdb
+C:\Users\Admin\Desktop\Git\ProjectQLPCNV\QLNV\QLNV\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\Git\ProjectQLPCNV\QLNV\QLNV\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\Git\ProjectQLPCNV\QLNV\QLNV\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\Git\ProjectQLPCNV\QLNV\QLNV\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\Git\ProjectQLPCNV\QLNV\QLNV\obj\Debug\QLNV.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Git\ProjectQLPCNV\QLNV\QLNV\obj\Debug\QLNV.FormDangNhap.resources
+C:\Users\Admin\Desktop\Git\ProjectQLPCNV\QLNV\QLNV\obj\Debug\QLNV.FormQuanLyCanBo.resources
+C:\Users\Admin\Desktop\Git\ProjectQLPCNV\QLNV\QLNV\obj\Debug\QLNV.FormTrangChu.resources
+C:\Users\Admin\Desktop\Git\ProjectQLPCNV\QLNV\QLNV\obj\Debug\QLNV.FormQuanLyYeuCau.resources
+C:\Users\Admin\Desktop\Git\ProjectQLPCNV\QLNV\QLNV\obj\Debug\QLNV.Properties.Resources.resources
+C:\Users\Admin\Desktop\Git\ProjectQLPCNV\QLNV\QLNV\obj\Debug\QLNV.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Git\ProjectQLPCNV\QLNV\QLNV\obj\Debug\QLNV.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Git\ProjectQLPCNV\QLNV\QLNV\obj\Debug\QLNV.csproj.CopyComplete
+C:\Users\Admin\Desktop\Git\ProjectQLPCNV\QLNV\QLNV\obj\Debug\QLNV.exe
+C:\Users\Admin\Desktop\Git\ProjectQLPCNV\QLNV\QLNV\obj\Debug\QLNV.pdb
+C:\Users\Admin\Desktop\Git\ProjectQLPCNV\QLNV\QLNV\obj\Debug\QLNV.Form1.resources
+C:\Users\Admin\Desktop\Git\ProjectQLPCNV\QLNV\QLNV\obj\Debug\QLNV.View.FormChonCa.resources
+C:\Users\Admin\Desktop\Git\ProjectQLPCNV\QLNV\QLNV\obj\Debug\QLNV.View.FormThemSua.resources
+E:\ProjectQLNV\ProjectQLPCNV\QLNV\QLNV\bin\Debug\QLNV.exe.config
+E:\ProjectQLNV\ProjectQLPCNV\QLNV\QLNV\bin\Debug\QLNV.exe
+E:\ProjectQLNV\ProjectQLPCNV\QLNV\QLNV\bin\Debug\QLNV.pdb
+E:\ProjectQLNV\ProjectQLPCNV\QLNV\QLNV\bin\Debug\EntityFramework.dll
+E:\ProjectQLNV\ProjectQLPCNV\QLNV\QLNV\bin\Debug\EntityFramework.SqlServer.dll
+E:\ProjectQLNV\ProjectQLPCNV\QLNV\QLNV\bin\Debug\EntityFramework.xml
+E:\ProjectQLNV\ProjectQLPCNV\QLNV\QLNV\bin\Debug\EntityFramework.SqlServer.xml
+E:\ProjectQLNV\ProjectQLPCNV\QLNV\QLNV\obj\Debug\QLNV.csprojResolveAssemblyReference.cache
+E:\ProjectQLNV\ProjectQLPCNV\QLNV\QLNV\obj\Debug\QLNV.Form1.resources
+E:\ProjectQLNV\ProjectQLPCNV\QLNV\QLNV\obj\Debug\QLNV.View.FormChonCa.resources
+E:\ProjectQLNV\ProjectQLPCNV\QLNV\QLNV\obj\Debug\QLNV.FormDangNhap.resources
+E:\ProjectQLNV\ProjectQLPCNV\QLNV\QLNV\obj\Debug\QLNV.FormQuanLyCanBo.resources
+E:\ProjectQLNV\ProjectQLPCNV\QLNV\QLNV\obj\Debug\QLNV.View.FormThemSua.resources
+E:\ProjectQLNV\ProjectQLPCNV\QLNV\QLNV\obj\Debug\QLNV.FormTrangChu.resources
+E:\ProjectQLNV\ProjectQLPCNV\QLNV\QLNV\obj\Debug\QLNV.FormQuanLyYeuCau.resources
+E:\ProjectQLNV\ProjectQLPCNV\QLNV\QLNV\obj\Debug\QLNV.Properties.Resources.resources
+E:\ProjectQLNV\ProjectQLPCNV\QLNV\QLNV\obj\Debug\QLNV.csproj.GenerateResource.Cache
+E:\ProjectQLNV\ProjectQLPCNV\QLNV\QLNV\obj\Debug\QLNV.csproj.CoreCompileInputs.cache
+E:\ProjectQLNV\ProjectQLPCNV\QLNV\QLNV\obj\Debug\QLNV.exe
+E:\ProjectQLNV\ProjectQLPCNV\QLNV\QLNV\obj\Debug\QLNV.pdb
+C:\Users\Admin\Desktop\QLNV\QLNV\QLNV\bin\Debug\QLNV.exe.config
+C:\Users\Admin\Desktop\QLNV\QLNV\QLNV\bin\Debug\QLNV.exe
+C:\Users\Admin\Desktop\QLNV\QLNV\QLNV\bin\Debug\QLNV.pdb
+C:\Users\Admin\Desktop\QLNV\QLNV\QLNV\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\QLNV\QLNV\QLNV\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\QLNV\QLNV\QLNV\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\QLNV\QLNV\QLNV\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\QLNV\QLNV\QLNV\obj\Debug\QLNV.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\QLNV\QLNV\QLNV\obj\Debug\QLNV.Form1.resources
+C:\Users\Admin\Desktop\QLNV\QLNV\QLNV\obj\Debug\QLNV.View.FormChonCa.resources
+C:\Users\Admin\Desktop\QLNV\QLNV\QLNV\obj\Debug\QLNV.FormDangNhap.resources
+C:\Users\Admin\Desktop\QLNV\QLNV\QLNV\obj\Debug\QLNV.FormQuanLyCanBo.resources
+C:\Users\Admin\Desktop\QLNV\QLNV\QLNV\obj\Debug\QLNV.View.FormThemSua.resources
+C:\Users\Admin\Desktop\QLNV\QLNV\QLNV\obj\Debug\QLNV.FormTrangChu.resources
+C:\Users\Admin\Desktop\QLNV\QLNV\QLNV\obj\Debug\QLNV.FormQuanLyYeuCau.resources
+C:\Users\Admin\Desktop\QLNV\QLNV\QLNV\obj\Debug\QLNV.Properties.Resources.resources
+C:\Users\Admin\Desktop\QLNV\QLNV\QLNV\obj\Debug\QLNV.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\QLNV\QLNV\QLNV\obj\Debug\QLNV.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\QLNV\QLNV\QLNV\obj\Debug\QLNV.csproj.CopyComplete
+C:\Users\Admin\Desktop\QLNV\QLNV\QLNV\obj\Debug\QLNV.exe
+C:\Users\Admin\Desktop\QLNV\QLNV\QLNV\obj\Debug\QLNV.pdb
+C:\Users\Admin\Desktop\QLNV\QLNV\QLNV\obj\Debug\QLNV.View.FormSuaYeuCau.resources
+C:\Users\Admin\Desktop\Git\ProjectQLPCNV\QLNV\QLNV-Codevaoday\QLNV\bin\Debug\QLNV.exe.config
+C:\Users\Admin\Desktop\Git\ProjectQLPCNV\QLNV\QLNV-Codevaoday\QLNV\bin\Debug\QLNV.exe
+C:\Users\Admin\Desktop\Git\ProjectQLPCNV\QLNV\QLNV-Codevaoday\QLNV\bin\Debug\QLNV.pdb
+C:\Users\Admin\Desktop\Git\ProjectQLPCNV\QLNV\QLNV-Codevaoday\QLNV\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\Git\ProjectQLPCNV\QLNV\QLNV-Codevaoday\QLNV\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\Git\ProjectQLPCNV\QLNV\QLNV-Codevaoday\QLNV\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\Git\ProjectQLPCNV\QLNV\QLNV-Codevaoday\QLNV\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\Git\ProjectQLPCNV\QLNV\QLNV-Codevaoday\QLNV\obj\Debug\QLNV.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Git\ProjectQLPCNV\QLNV\QLNV-Codevaoday\QLNV\obj\Debug\QLNV.View.FormChonCa.resources
+C:\Users\Admin\Desktop\Git\ProjectQLPCNV\QLNV\QLNV-Codevaoday\QLNV\obj\Debug\QLNV.FormDangNhap.resources
+C:\Users\Admin\Desktop\Git\ProjectQLPCNV\QLNV\QLNV-Codevaoday\QLNV\obj\Debug\QLNV.FormQuanLyCanBo.resources
+C:\Users\Admin\Desktop\Git\ProjectQLPCNV\QLNV\QLNV-Codevaoday\QLNV\obj\Debug\QLNV.View.FormSuaYeuCau.resources
+C:\Users\Admin\Desktop\Git\ProjectQLPCNV\QLNV\QLNV-Codevaoday\QLNV\obj\Debug\QLNV.View.FormThemSua.resources
+C:\Users\Admin\Desktop\Git\ProjectQLPCNV\QLNV\QLNV-Codevaoday\QLNV\obj\Debug\QLNV.FormTrangChu.resources
+C:\Users\Admin\Desktop\Git\ProjectQLPCNV\QLNV\QLNV-Codevaoday\QLNV\obj\Debug\QLNV.FormQuanLyYeuCau.resources
+C:\Users\Admin\Desktop\Git\ProjectQLPCNV\QLNV\QLNV-Codevaoday\QLNV\obj\Debug\QLNV.Properties.Resources.resources
+C:\Users\Admin\Desktop\Git\ProjectQLPCNV\QLNV\QLNV-Codevaoday\QLNV\obj\Debug\QLNV.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Git\ProjectQLPCNV\QLNV\QLNV-Codevaoday\QLNV\obj\Debug\QLNV.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Git\ProjectQLPCNV\QLNV\QLNV-Codevaoday\QLNV\obj\Debug\QLNV.csproj.CopyComplete
+C:\Users\Admin\Desktop\Git\ProjectQLPCNV\QLNV\QLNV-Codevaoday\QLNV\obj\Debug\QLNV.exe
+C:\Users\Admin\Desktop\Git\ProjectQLPCNV\QLNV\QLNV-Codevaoday\QLNV\obj\Debug\QLNV.pdb
+C:\Users\Admin\Desktop\Git\ProjectQLPCNV\QLNV\QLNV-Codevaoday\QLNV\obj\Debug\QLNV.View.FormTKCanBo.resources
+C:\Users\Admin\Desktop\Git\ProjectQLPCNV\QLNV\QLNV-Codevaoday\QLNV\bin\Debug\Dapper.dll
+C:\Users\Admin\Desktop\Git\ProjectQLPCNV\QLNV\QLNV-Codevaoday\QLNV\bin\Debug\Dapper.xml
+C:\Users\Admin\Desktop\Git\ProjectQLPCNV\QLNV\QLNV-Codevaoday\QLNV\obj\Debug\QLNV.View.FormTKCa.resources
+C:\Users\Admin\Desktop\Git\ProjectQLPCNV\QLNV\QLNV-Codevaoday\QLNV\obj\Debug\QLNV.View.FormTKNgay.resources
+E:\QLyNhanVien\ProjectQLPCNV\QLNV\QLNV-Codevaoday\QLNV\bin\Debug\QLNV.exe.config
+E:\QLyNhanVien\ProjectQLPCNV\QLNV\QLNV-Codevaoday\QLNV\bin\Debug\QLNV.exe
+E:\QLyNhanVien\ProjectQLPCNV\QLNV\QLNV-Codevaoday\QLNV\bin\Debug\QLNV.pdb
+E:\QLyNhanVien\ProjectQLPCNV\QLNV\QLNV-Codevaoday\QLNV\bin\Debug\Dapper.dll
+E:\QLyNhanVien\ProjectQLPCNV\QLNV\QLNV-Codevaoday\QLNV\bin\Debug\EntityFramework.dll
+E:\QLyNhanVien\ProjectQLPCNV\QLNV\QLNV-Codevaoday\QLNV\bin\Debug\EntityFramework.SqlServer.dll
+E:\QLyNhanVien\ProjectQLPCNV\QLNV\QLNV-Codevaoday\QLNV\bin\Debug\Dapper.xml
+E:\QLyNhanVien\ProjectQLPCNV\QLNV\QLNV-Codevaoday\QLNV\bin\Debug\EntityFramework.xml
+E:\QLyNhanVien\ProjectQLPCNV\QLNV\QLNV-Codevaoday\QLNV\bin\Debug\EntityFramework.SqlServer.xml
+E:\QLyNhanVien\ProjectQLPCNV\QLNV\QLNV-Codevaoday\QLNV\obj\Debug\QLNV.csprojResolveAssemblyReference.cache
+E:\QLyNhanVien\ProjectQLPCNV\QLNV\QLNV-Codevaoday\QLNV\obj\Debug\QLNV.View.FormChonCa.resources
+E:\QLyNhanVien\ProjectQLPCNV\QLNV\QLNV-Codevaoday\QLNV\obj\Debug\QLNV.FormDangNhap.resources
+E:\QLyNhanVien\ProjectQLPCNV\QLNV\QLNV-Codevaoday\QLNV\obj\Debug\QLNV.FormQuanLyCanBo.resources
+E:\QLyNhanVien\ProjectQLPCNV\QLNV\QLNV-Codevaoday\QLNV\obj\Debug\QLNV.View.FormSuaYeuCau.resources
+E:\QLyNhanVien\ProjectQLPCNV\QLNV\QLNV-Codevaoday\QLNV\obj\Debug\QLNV.View.FormThemSua.resources
+E:\QLyNhanVien\ProjectQLPCNV\QLNV\QLNV-Codevaoday\QLNV\obj\Debug\QLNV.View.FormTKCa.resources
+E:\QLyNhanVien\ProjectQLPCNV\QLNV\QLNV-Codevaoday\QLNV\obj\Debug\QLNV.View.FormTKCanBo.resources
+E:\QLyNhanVien\ProjectQLPCNV\QLNV\QLNV-Codevaoday\QLNV\obj\Debug\QLNV.View.FormTKNgay.resources
+E:\QLyNhanVien\ProjectQLPCNV\QLNV\QLNV-Codevaoday\QLNV\obj\Debug\QLNV.FormTrangChu.resources
+E:\QLyNhanVien\ProjectQLPCNV\QLNV\QLNV-Codevaoday\QLNV\obj\Debug\QLNV.FormQuanLyYeuCau.resources
+E:\QLyNhanVien\ProjectQLPCNV\QLNV\QLNV-Codevaoday\QLNV\obj\Debug\QLNV.Properties.Resources.resources
+E:\QLyNhanVien\ProjectQLPCNV\QLNV\QLNV-Codevaoday\QLNV\obj\Debug\QLNV.csproj.GenerateResource.Cache
+E:\QLyNhanVien\ProjectQLPCNV\QLNV\QLNV-Codevaoday\QLNV\obj\Debug\QLNV.csproj.CoreCompileInputs.cache
+E:\QLyNhanVien\ProjectQLPCNV\QLNV\QLNV-Codevaoday\QLNV\obj\Debug\QLNV.exe
+E:\QLyNhanVien\ProjectQLPCNV\QLNV\QLNV-Codevaoday\QLNV\obj\Debug\QLNV.pdb
+G:\QLyNhanVien\ProjectQLPCNV\QLNV\QLNV-Codevaoday\QLNV\obj\Debug\QLNV.csprojAssemblyReference.cache
+G:\QLyNhanVien\ProjectQLPCNV\QLNV\QLNV-Codevaoday\QLNV\obj\Debug\QLNV.View.FormChonCa.resources
+G:\QLyNhanVien\ProjectQLPCNV\QLNV\QLNV-Codevaoday\QLNV\obj\Debug\QLNV.FormDangNhap.resources
+G:\QLyNhanVien\ProjectQLPCNV\QLNV\QLNV-Codevaoday\QLNV\obj\Debug\QLNV.FormQuanLyCanBo.resources
+G:\QLyNhanVien\ProjectQLPCNV\QLNV\QLNV-Codevaoday\QLNV\obj\Debug\QLNV.View.FormSuaYeuCau.resources
+G:\QLyNhanVien\ProjectQLPCNV\QLNV\QLNV-Codevaoday\QLNV\obj\Debug\QLNV.View.FormThemSua.resources
+G:\QLyNhanVien\ProjectQLPCNV\QLNV\QLNV-Codevaoday\QLNV\obj\Debug\QLNV.View.FormTKCa.resources
+G:\QLyNhanVien\ProjectQLPCNV\QLNV\QLNV-Codevaoday\QLNV\obj\Debug\QLNV.View.FormTKCanBo.resources
+G:\QLyNhanVien\ProjectQLPCNV\QLNV\QLNV-Codevaoday\QLNV\obj\Debug\QLNV.View.FormTKNgay.resources
+G:\QLyNhanVien\ProjectQLPCNV\QLNV\QLNV-Codevaoday\QLNV\obj\Debug\QLNV.FormTrangChu.resources
+G:\QLyNhanVien\ProjectQLPCNV\QLNV\QLNV-Codevaoday\QLNV\obj\Debug\QLNV.FormQuanLyYeuCau.resources
+G:\QLyNhanVien\ProjectQLPCNV\QLNV\QLNV-Codevaoday\QLNV\obj\Debug\QLNV.Properties.Resources.resources
+G:\QLyNhanVien\ProjectQLPCNV\QLNV\QLNV-Codevaoday\QLNV\obj\Debug\QLNV.csproj.GenerateResource.cache
+G:\QLyNhanVien\ProjectQLPCNV\QLNV\QLNV-Codevaoday\QLNV\obj\Debug\QLNV.csproj.CoreCompileInputs.cache
+G:\QLyNhanVien\ProjectQLPCNV\QLNV\QLNV-Codevaoday\QLNV\obj\Debug\QLNV.exe
+G:\QLyNhanVien\ProjectQLPCNV\QLNV\QLNV-Codevaoday\QLNV\obj\Debug\QLNV.pdb
+G:\QLyNhanVien\ProjectQLPCNV\QLNV\QLNV-Codevaoday\QLNV\bin\Debug\QLNV.exe.config
+G:\QLyNhanVien\ProjectQLPCNV\QLNV\QLNV-Codevaoday\QLNV\bin\Debug\QLNV.exe
+G:\QLyNhanVien\ProjectQLPCNV\QLNV\QLNV-Codevaoday\QLNV\bin\Debug\QLNV.pdb
+G:\QLyNhanVien\ProjectQLPCNV\QLNV\QLNV-Codevaoday\QLNV\bin\Debug\Dapper.dll
+G:\QLyNhanVien\ProjectQLPCNV\QLNV\QLNV-Codevaoday\QLNV\bin\Debug\EntityFramework.dll
+G:\QLyNhanVien\ProjectQLPCNV\QLNV\QLNV-Codevaoday\QLNV\bin\Debug\EntityFramework.SqlServer.dll
+G:\QLyNhanVien\ProjectQLPCNV\QLNV\QLNV-Codevaoday\QLNV\bin\Debug\Dapper.xml
+G:\QLyNhanVien\ProjectQLPCNV\QLNV\QLNV-Codevaoday\QLNV\bin\Debug\EntityFramework.xml
+G:\QLyNhanVien\ProjectQLPCNV\QLNV\QLNV-Codevaoday\QLNV\bin\Debug\EntityFramework.SqlServer.xml
+G:\QLyNhanVien\ProjectQLPCNV\QLNV\QLNV-Codevaoday\QLNV\obj\Debug\QLNV.csproj.CopyComplete
+G:\WFQLyNhanVien\Source\QLNV\bin\Debug\QLNV.exe.config
+G:\WFQLyNhanVien\Source\QLNV\bin\Debug\QLNV.exe
+G:\WFQLyNhanVien\Source\QLNV\bin\Debug\QLNV.pdb
+G:\WFQLyNhanVien\Source\QLNV\bin\Debug\Dapper.dll
+G:\WFQLyNhanVien\Source\QLNV\bin\Debug\EntityFramework.dll
+G:\WFQLyNhanVien\Source\QLNV\bin\Debug\EntityFramework.SqlServer.dll
+G:\WFQLyNhanVien\Source\QLNV\bin\Debug\Dapper.xml
+G:\WFQLyNhanVien\Source\QLNV\bin\Debug\EntityFramework.xml
+G:\WFQLyNhanVien\Source\QLNV\bin\Debug\EntityFramework.SqlServer.xml
+G:\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.csprojAssemblyReference.cache
+G:\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormChonCa.resources
+G:\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.FormDangNhap.resources
+G:\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.FormQuanLyCanBo.resources
+G:\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormSuaYeuCau.resources
+G:\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormThemSua.resources
+G:\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormTKCa.resources
+G:\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormTKCanBo.resources
+G:\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormTKNgay.resources
+G:\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.FormTrangChu.resources
+G:\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.FormQuanLyYeuCau.resources
+G:\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.Properties.Resources.resources
+G:\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.csproj.GenerateResource.cache
+G:\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.csproj.CoreCompileInputs.cache
+G:\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.csproj.CopyComplete
+G:\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.exe
+G:\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.pdb
+G:\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhSachCanBo.resources
+C:\Users\minh\Documents\Hoang\QLyNhanVienCode\WFQLyNhanVien\Source\QLNV\bin\Debug\QLNV.exe.config
+C:\Users\minh\Documents\Hoang\QLyNhanVienCode\WFQLyNhanVien\Source\QLNV\bin\Debug\QLNV.exe
+C:\Users\minh\Documents\Hoang\QLyNhanVienCode\WFQLyNhanVien\Source\QLNV\bin\Debug\QLNV.pdb
+C:\Users\minh\Documents\Hoang\QLyNhanVienCode\WFQLyNhanVien\Source\QLNV\bin\Debug\Dapper.dll
+C:\Users\minh\Documents\Hoang\QLyNhanVienCode\WFQLyNhanVien\Source\QLNV\bin\Debug\EntityFramework.dll
+C:\Users\minh\Documents\Hoang\QLyNhanVienCode\WFQLyNhanVien\Source\QLNV\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\minh\Documents\Hoang\QLyNhanVienCode\WFQLyNhanVien\Source\QLNV\bin\Debug\Dapper.xml
+C:\Users\minh\Documents\Hoang\QLyNhanVienCode\WFQLyNhanVien\Source\QLNV\bin\Debug\EntityFramework.xml
+C:\Users\minh\Documents\Hoang\QLyNhanVienCode\WFQLyNhanVien\Source\QLNV\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\minh\Documents\Hoang\QLyNhanVienCode\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.csprojAssemblyReference.cache
+C:\Users\minh\Documents\Hoang\QLyNhanVienCode\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhSachCanBo.resources
+C:\Users\minh\Documents\Hoang\QLyNhanVienCode\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormChonCa.resources
+C:\Users\minh\Documents\Hoang\QLyNhanVienCode\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.FormDangNhap.resources
+C:\Users\minh\Documents\Hoang\QLyNhanVienCode\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.FormQuanLyCanBo.resources
+C:\Users\minh\Documents\Hoang\QLyNhanVienCode\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormSuaYeuCau.resources
+C:\Users\minh\Documents\Hoang\QLyNhanVienCode\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormThemSua.resources
+C:\Users\minh\Documents\Hoang\QLyNhanVienCode\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormTKCa.resources
+C:\Users\minh\Documents\Hoang\QLyNhanVienCode\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormTKCanBo.resources
+C:\Users\minh\Documents\Hoang\QLyNhanVienCode\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormTKNgay.resources
+C:\Users\minh\Documents\Hoang\QLyNhanVienCode\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.FormTrangChu.resources
+C:\Users\minh\Documents\Hoang\QLyNhanVienCode\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.FormQuanLyYeuCau.resources
+C:\Users\minh\Documents\Hoang\QLyNhanVienCode\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.Properties.Resources.resources
+C:\Users\minh\Documents\Hoang\QLyNhanVienCode\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.csproj.GenerateResource.cache
+C:\Users\minh\Documents\Hoang\QLyNhanVienCode\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.csproj.CoreCompileInputs.cache
+C:\Users\minh\Documents\Hoang\QLyNhanVienCode\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.csproj.CopyComplete
+C:\Users\minh\Documents\Hoang\QLyNhanVienCode\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.exe
+C:\Users\minh\Documents\Hoang\QLyNhanVienCode\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.pdb
+C:\Users\PC\Downloads\aaaa\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.csprojAssemblyReference.cache
+C:\Users\PC\Downloads\aaaa\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhSachCanBo.resources
+C:\Users\PC\Downloads\aaaa\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhSachCaTruc.resources
+C:\Users\PC\Downloads\aaaa\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormChonCa.resources
+C:\Users\PC\Downloads\aaaa\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.FormDangNhap.resources
+C:\Users\PC\Downloads\aaaa\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.FormQuanLyCanBo.resources
+C:\Users\PC\Downloads\aaaa\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormSuaYeuCau.resources
+C:\Users\PC\Downloads\aaaa\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormThemSua.resources
+C:\Users\PC\Downloads\aaaa\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormTKCa.resources
+C:\Users\PC\Downloads\aaaa\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormTKCanBo.resources
+C:\Users\PC\Downloads\aaaa\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormTKNgay.resources
+C:\Users\PC\Downloads\aaaa\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.FormTrangChu.resources
+C:\Users\PC\Downloads\aaaa\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.FormQuanLyYeuCau.resources
+C:\Users\PC\Downloads\aaaa\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.Properties.Resources.resources
+C:\Users\PC\Downloads\aaaa\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.csproj.GenerateResource.cache
+C:\Users\PC\Downloads\aaaa\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\aaaa\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.exe
+C:\Users\PC\Downloads\aaaa\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.pdb
+C:\Users\PC\Downloads\aaaa\WFQLyNhanVien\Source\QLNV\bin\Debug\QLNV.exe.config
+C:\Users\PC\Downloads\aaaa\WFQLyNhanVien\Source\QLNV\bin\Debug\QLNV.exe
+C:\Users\PC\Downloads\aaaa\WFQLyNhanVien\Source\QLNV\bin\Debug\QLNV.pdb
+C:\Users\PC\Downloads\aaaa\WFQLyNhanVien\Source\QLNV\bin\Debug\Dapper.dll
+C:\Users\PC\Downloads\aaaa\WFQLyNhanVien\Source\QLNV\bin\Debug\EntityFramework.dll
+C:\Users\PC\Downloads\aaaa\WFQLyNhanVien\Source\QLNV\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC\Downloads\aaaa\WFQLyNhanVien\Source\QLNV\bin\Debug\Dapper.xml
+C:\Users\PC\Downloads\aaaa\WFQLyNhanVien\Source\QLNV\bin\Debug\EntityFramework.xml
+C:\Users\PC\Downloads\aaaa\WFQLyNhanVien\Source\QLNV\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC\Downloads\aaaa\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.csproj.CopyComplete
+G:\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhSachCaTruc.resources
+G:\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.RandomNhanSu.resources
+E:\Code_C#\WFQLyNhanVien\WFQLyNhanVien\Source\QLNV\bin\Debug\QLNV.exe.config
+E:\Code_C#\WFQLyNhanVien\WFQLyNhanVien\Source\QLNV\bin\Debug\QLNV.exe
+E:\Code_C#\WFQLyNhanVien\WFQLyNhanVien\Source\QLNV\bin\Debug\QLNV.pdb
+E:\Code_C#\WFQLyNhanVien\WFQLyNhanVien\Source\QLNV\bin\Debug\Dapper.dll
+E:\Code_C#\WFQLyNhanVien\WFQLyNhanVien\Source\QLNV\bin\Debug\EntityFramework.dll
+E:\Code_C#\WFQLyNhanVien\WFQLyNhanVien\Source\QLNV\bin\Debug\EntityFramework.SqlServer.dll
+E:\Code_C#\WFQLyNhanVien\WFQLyNhanVien\Source\QLNV\bin\Debug\Dapper.xml
+E:\Code_C#\WFQLyNhanVien\WFQLyNhanVien\Source\QLNV\bin\Debug\EntityFramework.xml
+E:\Code_C#\WFQLyNhanVien\WFQLyNhanVien\Source\QLNV\bin\Debug\EntityFramework.SqlServer.xml
+E:\Code_C#\WFQLyNhanVien\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.csprojAssemblyReference.cache
+E:\Code_C#\WFQLyNhanVien\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhSachCanBo.resources
+E:\Code_C#\WFQLyNhanVien\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhSachCaTruc.resources
+E:\Code_C#\WFQLyNhanVien\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormChonCa.resources
+E:\Code_C#\WFQLyNhanVien\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.FormDangNhap.resources
+E:\Code_C#\WFQLyNhanVien\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.FormQuanLyCanBo.resources
+E:\Code_C#\WFQLyNhanVien\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormSuaYeuCau.resources
+E:\Code_C#\WFQLyNhanVien\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormThemSua.resources
+E:\Code_C#\WFQLyNhanVien\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormTKCa.resources
+E:\Code_C#\WFQLyNhanVien\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormTKCanBo.resources
+E:\Code_C#\WFQLyNhanVien\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormTKNgay.resources
+E:\Code_C#\WFQLyNhanVien\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.FormTrangChu.resources
+E:\Code_C#\WFQLyNhanVien\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.FormQuanLyYeuCau.resources
+E:\Code_C#\WFQLyNhanVien\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.Properties.Resources.resources
+E:\Code_C#\WFQLyNhanVien\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.RandomNhanSu.resources
+E:\Code_C#\WFQLyNhanVien\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.csproj.GenerateResource.cache
+E:\Code_C#\WFQLyNhanVien\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.csproj.CoreCompileInputs.cache
+E:\Code_C#\WFQLyNhanVien\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.csproj.CopyComplete
+E:\Code_C#\WFQLyNhanVien\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.exe
+E:\Code_C#\WFQLyNhanVien\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.pdb
+C:\Users\PC\Downloads\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.csprojAssemblyReference.cache
+C:\Users\PC\Downloads\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhMucYeuCau.SuaYeuCau.resources
+C:\Users\PC\Downloads\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhMucYeuCau.XoaYeuCau.resources
+C:\Users\PC\Downloads\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhSachCanBo.resources
+C:\Users\PC\Downloads\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhSachCaTruc.resources
+C:\Users\PC\Downloads\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormChonCa.resources
+C:\Users\PC\Downloads\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.FormDangNhap.resources
+C:\Users\PC\Downloads\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.FormQuanLyCanBo.resources
+C:\Users\PC\Downloads\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormSuaYeuCau.resources
+C:\Users\PC\Downloads\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormThemSua.resources
+C:\Users\PC\Downloads\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormTKCa.resources
+C:\Users\PC\Downloads\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormTKCanBo.resources
+C:\Users\PC\Downloads\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormTKNgay.resources
+C:\Users\PC\Downloads\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.FormTrangChu.resources
+C:\Users\PC\Downloads\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.FormQuanLyYeuCau.resources
+C:\Users\PC\Downloads\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.RandomNhanSu.resources
+C:\Users\PC\Downloads\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.csproj.GenerateResource.cache
+C:\Users\PC\Downloads\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.Properties.Resources.resources
+C:\Users\PC\Downloads\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\bin\Debug\QLNV.exe.config
+C:\Users\PC\Downloads\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\bin\Debug\QLNV.exe
+C:\Users\PC\Downloads\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\bin\Debug\QLNV.pdb
+C:\Users\PC\Downloads\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\bin\Debug\Dapper.dll
+C:\Users\PC\Downloads\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\bin\Debug\EntityFramework.dll
+C:\Users\PC\Downloads\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC\Downloads\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\bin\Debug\Dapper.xml
+C:\Users\PC\Downloads\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\bin\Debug\EntityFramework.xml
+C:\Users\PC\Downloads\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC\Downloads\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.csproj.CopyComplete
+C:\Users\PC\Downloads\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.exe
+C:\Users\PC\Downloads\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.pdb
+C:\Users\PC\Downloads\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.TimCanBo.resources
+C:\Users\PC\Downloads\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.TimKiem.TimKiemNgay.resources
+C:\Users\PC\Downloads\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhMucCanBo.XoaCanBo.resources
+C:\Users\PC\Downloads\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhMucCanBo.XemCanBo.resources
+C:\Users\PC\Downloads\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhMucCanBo.SuaCanBo.resources
+D:\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.Properties.Resources.resources
+D:\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhMucCanBo.SuaCanBo.resources
+D:\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhMucCanBo.XemCanBo.resources
+D:\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhMucCanBo.XoaCanBo.resources
+D:\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhMucYeuCau.SuaYeuCau.resources
+D:\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhMucYeuCau.XoaYeuCau.resources
+D:\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhSachCanBo.resources
+D:\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhSachCaTruc.resources
+D:\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormChonCa.resources
+D:\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.FormDangNhap.resources
+D:\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.FormQuanLyCanBo.resources
+D:\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormSuaYeuCau.resources
+D:\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormThemSua.resources
+D:\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormTKCa.resources
+D:\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormTKCanBo.resources
+D:\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.FormTrangChu.resources
+D:\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.FormQuanLyYeuCau.resources
+D:\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.RandomNhanSu.resources
+D:\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormTKNgay.resources
+D:\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.TimCanBo.resources
+D:\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.TimKiem.TimKiemNgay.resources
+D:\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.csproj.GenerateResource.cache
+D:\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.csproj.CoreCompileInputs.cache
+D:\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.exe
+D:\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.pdb
+D:\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\bin\Debug\QLNV.exe.config
+D:\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\bin\Debug\QLNV.exe
+D:\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\bin\Debug\QLNV.pdb
+D:\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\bin\Debug\Dapper.dll
+D:\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\bin\Debug\EntityFramework.dll
+D:\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\bin\Debug\EntityFramework.SqlServer.dll
+D:\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\bin\Debug\Dapper.xml
+D:\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\bin\Debug\EntityFramework.xml
+D:\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\bin\Debug\EntityFramework.SqlServer.xml
+D:\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.csproj.CopyComplete
+D:\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.ViewQLYeuCau.resources
+D:\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.csprojAssemblyReference.cache
+D:\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.ViewQuanLyYeuCau.ViewThemYeuCau.resources
+D:\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.TimKiem.LichTrucf.resources
+D:\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.TimKiem.TimKiemCa.resources
+D:\C#\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\bin\Debug\QLNV.exe.config
+D:\C#\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\bin\Debug\QLNV.exe
+D:\C#\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\bin\Debug\QLNV.pdb
+D:\C#\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\bin\Debug\Dapper.dll
+D:\C#\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\bin\Debug\EntityFramework.dll
+D:\C#\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\bin\Debug\Dapper.xml
+D:\C#\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\bin\Debug\EntityFramework.xml
+D:\C#\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.csprojAssemblyReference.cache
+D:\C#\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.Properties.Resources.resources
+D:\C#\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhMucCanBo.SuaCanBo.resources
+D:\C#\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhMucCanBo.XemCanBo.resources
+D:\C#\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhMucCanBo.XoaCanBo.resources
+D:\C#\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhMucYeuCau.SuaYeuCau.resources
+D:\C#\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhMucYeuCau.XoaYeuCau.resources
+D:\C#\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhSachCanBo.resources
+D:\C#\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhSachCaTruc.resources
+D:\C#\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormChonCa.resources
+D:\C#\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.FormDangNhap.resources
+D:\C#\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.FormQuanLyCanBo.resources
+D:\C#\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormSuaYeuCau.resources
+D:\C#\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormThemSua.resources
+D:\C#\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormTKCa.resources
+D:\C#\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormTKCanBo.resources
+D:\C#\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.FormTrangChu.resources
+D:\C#\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.FormQuanLyYeuCau.resources
+D:\C#\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.RandomNhanSu.resources
+D:\C#\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormTKNgay.resources
+D:\C#\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.TimKiem.LichTrucf.resources
+D:\C#\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.TimCanBo.resources
+D:\C#\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.TimKiem.TimKiemCa.resources
+D:\C#\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.TimKiem.TimKiemNgay.resources
+D:\C#\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.csproj.GenerateResource.cache
+D:\C#\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.csproj.CoreCompileInputs.cache
+D:\C#\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.csproj.CopyComplete
+D:\C#\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.exe
+D:\C#\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.pdb
+D:\C#\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.TaoDotCongViet.resources
+G:\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.csprojAssemblyReference.cache
+G:\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.Properties.Resources.resources
+G:\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhMucCanBo.SuaCanBo.resources
+G:\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhMucCanBo.XemCanBo.resources
+G:\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhMucCanBo.XoaCanBo.resources
+G:\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhMucYeuCau.SuaYeuCau.resources
+G:\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhMucYeuCau.XoaYeuCau.resources
+G:\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhSachCanBo.resources
+G:\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhSachCaTruc.resources
+G:\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormChonCa.resources
+G:\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.FormDangNhap.resources
+G:\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.FormQuanLyCanBo.resources
+G:\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormSuaYeuCau.resources
+G:\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormThemSua.resources
+G:\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.TaoDotCongViet.resources
+G:\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormTKCa.resources
+G:\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormTKCanBo.resources
+G:\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.FormTrangChu.resources
+G:\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.FormQuanLyYeuCau.resources
+G:\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.RandomNhanSu.resources
+G:\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormTKNgay.resources
+G:\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.TimKiem.LichTrucf.resources
+G:\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.TimCanBo.resources
+G:\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.TimKiem.TimKiemCa.resources
+G:\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.TimKiem.TimKiemNgay.resources
+G:\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.csproj.GenerateResource.cache
+G:\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.csproj.CoreCompileInputs.cache
+G:\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.exe
+G:\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.pdb
+G:\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\bin\Debug\QLNV.exe.config
+G:\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\bin\Debug\QLNV.exe
+G:\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\bin\Debug\QLNV.pdb
+G:\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\bin\Debug\Dapper.dll
+G:\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\bin\Debug\EntityFramework.dll
+G:\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\bin\Debug\EntityFramework.SqlServer.dll
+G:\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\bin\Debug\Dapper.xml
+G:\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\bin\Debug\EntityFramework.xml
+G:\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\bin\Debug\EntityFramework.SqlServer.xml
+G:\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.csproj.CopyComplete
+D:\UpDate\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.csprojAssemblyReference.cache
+D:\UpDate\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.Properties.Resources.resources
+D:\UpDate\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhMucCanBo.SuaCanBo.resources
+D:\UpDate\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhMucCanBo.XemCanBo.resources
+D:\UpDate\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhMucCanBo.XoaCanBo.resources
+D:\UpDate\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhMucYeuCau.SuaYeuCau.resources
+D:\UpDate\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhMucYeuCau.XoaYeuCau.resources
+D:\UpDate\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhSachCanBo.resources
+D:\UpDate\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhSachCaTruc.resources
+D:\UpDate\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormChonCa.resources
+D:\UpDate\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.FormDangNhap.resources
+D:\UpDate\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.FormQuanLyCanBo.resources
+D:\UpDate\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormSuaYeuCau.resources
+D:\UpDate\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormThemSua.resources
+D:\UpDate\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.TaoDotCongViet.resources
+D:\UpDate\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormTKCa.resources
+D:\UpDate\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormTKCanBo.resources
+D:\UpDate\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.FormTrangChu.resources
+D:\UpDate\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.FormQuanLyYeuCau.resources
+D:\UpDate\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.RandomNhanSu.resources
+D:\UpDate\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormTKNgay.resources
+D:\UpDate\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.TimKiem.LichTrucf.resources
+D:\UpDate\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.TimCanBo.resources
+D:\UpDate\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.TimKiem.TimKiemCa.resources
+D:\UpDate\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.TimKiem.TimKiemNgay.resources
+D:\UpDate\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.csproj.GenerateResource.cache
+D:\UpDate\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.csproj.CoreCompileInputs.cache
+D:\UpDate\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.exe
+D:\UpDate\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.pdb
+D:\UpDate\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\bin\Debug\QLNV.exe.config
+D:\UpDate\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\bin\Debug\QLNV.exe
+D:\UpDate\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\bin\Debug\QLNV.pdb
+D:\UpDate\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\bin\Debug\Dapper.dll
+D:\UpDate\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\bin\Debug\EntityFramework.dll
+D:\UpDate\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\bin\Debug\EntityFramework.SqlServer.dll
+D:\UpDate\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\bin\Debug\Dapper.xml
+D:\UpDate\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\bin\Debug\EntityFramework.xml
+D:\UpDate\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\bin\Debug\EntityFramework.SqlServer.xml
+D:\UpDate\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.csproj.CopyComplete
+C:\Users\PC\Desktop\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\bin\Debug\QLNV.exe.config
+C:\Users\PC\Desktop\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\bin\Debug\QLNV.exe
+C:\Users\PC\Desktop\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\bin\Debug\QLNV.pdb
+C:\Users\PC\Desktop\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\bin\Debug\Dapper.dll
+C:\Users\PC\Desktop\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\bin\Debug\EntityFramework.dll
+C:\Users\PC\Desktop\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC\Desktop\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\bin\Debug\Dapper.xml
+C:\Users\PC\Desktop\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\bin\Debug\EntityFramework.xml
+C:\Users\PC\Desktop\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC\Desktop\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.Properties.Resources.resources
+C:\Users\PC\Desktop\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhMucCanBo.SuaCanBo.resources
+C:\Users\PC\Desktop\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhMucCanBo.XemCanBo.resources
+C:\Users\PC\Desktop\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhMucCanBo.XoaCanBo.resources
+C:\Users\PC\Desktop\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhMucYeuCau.SuaYeuCau.resources
+C:\Users\PC\Desktop\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhMucYeuCau.XoaYeuCau.resources
+C:\Users\PC\Desktop\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhSachCanBo.resources
+C:\Users\PC\Desktop\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhSachCaTruc.resources
+C:\Users\PC\Desktop\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormChonCa.resources
+C:\Users\PC\Desktop\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.FormDangNhap.resources
+C:\Users\PC\Desktop\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.FormQuanLyCanBo.resources
+C:\Users\PC\Desktop\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormSuaYeuCau.resources
+C:\Users\PC\Desktop\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormThemSua.resources
+C:\Users\PC\Desktop\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.TaoDotCongViet.resources
+C:\Users\PC\Desktop\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormTKCa.resources
+C:\Users\PC\Desktop\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormTKCanBo.resources
+C:\Users\PC\Desktop\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.FormTrangChu.resources
+C:\Users\PC\Desktop\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.FormQuanLyYeuCau.resources
+C:\Users\PC\Desktop\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.RandomNhanSu.resources
+C:\Users\PC\Desktop\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormTKNgay.resources
+C:\Users\PC\Desktop\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.TimKiem.LichTrucf.resources
+C:\Users\PC\Desktop\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.TimCanBo.resources
+C:\Users\PC\Desktop\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.TimKiem.TimKiemCa.resources
+C:\Users\PC\Desktop\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.TimKiem.TimKiemNgay.resources
+C:\Users\PC\Desktop\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.csproj.CopyComplete
+C:\Users\PC\Desktop\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.exe
+C:\Users\PC\Desktop\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.pdb
+D:\UpDate\Truong\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.Properties.Resources.resources
+D:\UpDate\Truong\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhMucCanBo.SuaCanBo.resources
+D:\UpDate\Truong\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhMucCanBo.XemCanBo.resources
+D:\UpDate\Truong\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhMucCanBo.XoaCanBo.resources
+D:\UpDate\Truong\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhMucYeuCau.SuaYeuCau.resources
+D:\UpDate\Truong\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhMucYeuCau.XoaYeuCau.resources
+D:\UpDate\Truong\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhSachCanBo.resources
+D:\UpDate\Truong\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhSachCaTruc.resources
+D:\UpDate\Truong\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormChonCa.resources
+D:\UpDate\Truong\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.FormDangNhap.resources
+D:\UpDate\Truong\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.FormQuanLyCanBo.resources
+D:\UpDate\Truong\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormSuaYeuCau.resources
+D:\UpDate\Truong\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormThemSua.resources
+D:\UpDate\Truong\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.TaoDotCongViet.resources
+D:\UpDate\Truong\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormTKCa.resources
+D:\UpDate\Truong\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormTKCanBo.resources
+D:\UpDate\Truong\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.FormTrangChu.resources
+D:\UpDate\Truong\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.FormQuanLyYeuCau.resources
+D:\UpDate\Truong\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.RandomNhanSu.resources
+D:\UpDate\Truong\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormTKNgay.resources
+D:\UpDate\Truong\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.TimKiem.LichTrucf.resources
+D:\UpDate\Truong\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.TimCanBo.resources
+D:\UpDate\Truong\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.TimKiem.TimKiemCa.resources
+D:\UpDate\Truong\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.TimKiem.TimKiemNgay.resources
+D:\UpDate\Truong\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.csproj.GenerateResource.cache
+D:\UpDate\Truong\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.csproj.CoreCompileInputs.cache
+D:\UpDate\Truong\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.exe
+D:\UpDate\Truong\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.pdb
+D:\UpDate\Truong\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\bin\Debug\QLNV.exe.config
+D:\UpDate\Truong\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\bin\Debug\QLNV.exe
+D:\UpDate\Truong\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\bin\Debug\QLNV.pdb
+D:\UpDate\Truong\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\bin\Debug\Dapper.dll
+D:\UpDate\Truong\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\bin\Debug\EntityFramework.dll
+D:\UpDate\Truong\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\bin\Debug\EntityFramework.SqlServer.dll
+D:\UpDate\Truong\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\bin\Debug\Dapper.xml
+D:\UpDate\Truong\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\bin\Debug\EntityFramework.xml
+D:\UpDate\Truong\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\bin\Debug\EntityFramework.SqlServer.xml
+D:\UpDate\Truong\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.csproj.CopyComplete
+D:\UpDate\Truong\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\bin\Debug\QLNV.exe.config
+C:\Users\PC\Desktop\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\bin\Debug\QLNV.exe
+C:\Users\PC\Desktop\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\bin\Debug\QLNV.pdb
+C:\Users\PC\Desktop\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\bin\Debug\Dapper.dll
+C:\Users\PC\Desktop\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\bin\Debug\EntityFramework.dll
+C:\Users\PC\Desktop\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC\Desktop\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\bin\Debug\Dapper.xml
+C:\Users\PC\Desktop\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\bin\Debug\EntityFramework.xml
+C:\Users\PC\Desktop\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC\Desktop\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.Properties.Resources.resources
+C:\Users\PC\Desktop\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhMucCanBo.SuaCanBo.resources
+C:\Users\PC\Desktop\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhMucCanBo.XemCanBo.resources
+C:\Users\PC\Desktop\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhMucCanBo.XoaCanBo.resources
+C:\Users\PC\Desktop\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhMucYeuCau.SuaYeuCau.resources
+C:\Users\PC\Desktop\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhMucYeuCau.XoaYeuCau.resources
+C:\Users\PC\Desktop\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhSachCanBo.resources
+C:\Users\PC\Desktop\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhSachCaTruc.resources
+C:\Users\PC\Desktop\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormChonCa.resources
+C:\Users\PC\Desktop\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.FormDangNhap.resources
+C:\Users\PC\Desktop\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.FormQuanLyCanBo.resources
+C:\Users\PC\Desktop\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormSuaYeuCau.resources
+C:\Users\PC\Desktop\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormThemSua.resources
+C:\Users\PC\Desktop\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.TaoDotCongViet.resources
+C:\Users\PC\Desktop\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormTKCa.resources
+C:\Users\PC\Desktop\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormTKCanBo.resources
+C:\Users\PC\Desktop\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.FormTrangChu.resources
+C:\Users\PC\Desktop\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.FormQuanLyYeuCau.resources
+C:\Users\PC\Desktop\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.RandomNhanSu.resources
+C:\Users\PC\Desktop\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormTKNgay.resources
+C:\Users\PC\Desktop\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.TimKiem.LichTrucf.resources
+C:\Users\PC\Desktop\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.TimCanBo.resources
+C:\Users\PC\Desktop\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.TimKiem.TimKiemCa.resources
+C:\Users\PC\Desktop\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.TimKiem.TimKiemNgay.resources
+C:\Users\PC\Desktop\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.csproj.CopyComplete
+C:\Users\PC\Desktop\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.exe
+C:\Users\PC\Desktop\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.pdb
+D:\UpDate\Truong\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.csprojAssemblyReference.cache
+D:\UpDate\Truong\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.Properties.Resources.resources
+D:\UpDate\Truong\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhMucCanBo.SuaCanBo.resources
+D:\UpDate\Truong\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhMucCanBo.XemCanBo.resources
+D:\UpDate\Truong\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhMucCanBo.XoaCanBo.resources
+D:\UpDate\Truong\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhMucYeuCau.SuaYeuCau.resources
+D:\UpDate\Truong\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhMucYeuCau.XoaYeuCau.resources
+D:\UpDate\Truong\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhSachCanBo.resources
+D:\UpDate\Truong\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhSachCaTruc.resources
+D:\UpDate\Truong\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormChonCa.resources
+D:\UpDate\Truong\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.FormDangNhap.resources
+D:\UpDate\Truong\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.FormQuanLyCanBo.resources
+D:\UpDate\Truong\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormSuaYeuCau.resources
+D:\UpDate\Truong\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormThemSua.resources
+D:\UpDate\Truong\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.TaoDotCongViet.resources
+D:\UpDate\Truong\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormTKCa.resources
+D:\UpDate\Truong\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormTKCanBo.resources
+D:\UpDate\Truong\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.FormTrangChu.resources
+D:\UpDate\Truong\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.FormQuanLyYeuCau.resources
+D:\UpDate\Truong\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.RandomNhanSu.resources
+D:\UpDate\Truong\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormTKNgay.resources
+D:\UpDate\Truong\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.TimKiem.LichTrucf.resources
+D:\UpDate\Truong\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.TimCanBo.resources
+D:\UpDate\Truong\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.TimKiem.TimKiemCa.resources
+D:\UpDate\Truong\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.TimKiem.TimKiemNgay.resources
+D:\UpDate\Truong\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.csproj.GenerateResource.cache
+D:\UpDate\Truong\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.csproj.CoreCompileInputs.cache
+D:\UpDate\Truong\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.exe
+D:\UpDate\Truong\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.pdb
+D:\UpDate\Truong\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\bin\Debug\QLNV.exe.config
+D:\UpDate\Truong\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\bin\Debug\QLNV.exe
+D:\UpDate\Truong\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\bin\Debug\QLNV.pdb
+D:\UpDate\Truong\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\bin\Debug\Dapper.dll
+D:\UpDate\Truong\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\bin\Debug\EntityFramework.dll
+D:\UpDate\Truong\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\bin\Debug\EntityFramework.SqlServer.dll
+D:\UpDate\Truong\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\bin\Debug\Dapper.xml
+D:\UpDate\Truong\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\bin\Debug\EntityFramework.xml
+D:\UpDate\Truong\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\bin\Debug\EntityFramework.SqlServer.xml
+D:\UpDate\Truong\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang (2)\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien_Hoang\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.csproj.CopyComplete
+D:\UpDate\Truong\WFQLyNhanVien\WFQLyNhanVien\Source\QLNV\bin\Debug\QLNV.exe.config
+D:\UpDate\Truong\WFQLyNhanVien\WFQLyNhanVien\Source\QLNV\bin\Debug\QLNV.exe
+D:\UpDate\Truong\WFQLyNhanVien\WFQLyNhanVien\Source\QLNV\bin\Debug\QLNV.pdb
+D:\UpDate\Truong\WFQLyNhanVien\WFQLyNhanVien\Source\QLNV\bin\Debug\Dapper.dll
+D:\UpDate\Truong\WFQLyNhanVien\WFQLyNhanVien\Source\QLNV\bin\Debug\EntityFramework.dll
+D:\UpDate\Truong\WFQLyNhanVien\WFQLyNhanVien\Source\QLNV\bin\Debug\EntityFramework.SqlServer.dll
+D:\UpDate\Truong\WFQLyNhanVien\WFQLyNhanVien\Source\QLNV\bin\Debug\Dapper.xml
+D:\UpDate\Truong\WFQLyNhanVien\WFQLyNhanVien\Source\QLNV\bin\Debug\EntityFramework.xml
+D:\UpDate\Truong\WFQLyNhanVien\WFQLyNhanVien\Source\QLNV\bin\Debug\EntityFramework.SqlServer.xml
+D:\UpDate\Truong\WFQLyNhanVien\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.csprojAssemblyReference.cache
+D:\UpDate\Truong\WFQLyNhanVien\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.Properties.Resources.resources
+D:\UpDate\Truong\WFQLyNhanVien\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhMucCanBo.SuaCanBo.resources
+D:\UpDate\Truong\WFQLyNhanVien\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhMucCanBo.XemCanBo.resources
+D:\UpDate\Truong\WFQLyNhanVien\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhMucCanBo.XoaCanBo.resources
+D:\UpDate\Truong\WFQLyNhanVien\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhMucYeuCau.SuaYeuCau.resources
+D:\UpDate\Truong\WFQLyNhanVien\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhMucYeuCau.XoaYeuCau.resources
+D:\UpDate\Truong\WFQLyNhanVien\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhSachCanBo.resources
+D:\UpDate\Truong\WFQLyNhanVien\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhSachCaTruc.resources
+D:\UpDate\Truong\WFQLyNhanVien\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormChonCa.resources
+D:\UpDate\Truong\WFQLyNhanVien\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.FormDangNhap.resources
+D:\UpDate\Truong\WFQLyNhanVien\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.FormQuanLyCanBo.resources
+D:\UpDate\Truong\WFQLyNhanVien\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormSuaYeuCau.resources
+D:\UpDate\Truong\WFQLyNhanVien\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormThemSua.resources
+D:\UpDate\Truong\WFQLyNhanVien\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.TaoDotCongViet.resources
+D:\UpDate\Truong\WFQLyNhanVien\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormTKCa.resources
+D:\UpDate\Truong\WFQLyNhanVien\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormTKCanBo.resources
+D:\UpDate\Truong\WFQLyNhanVien\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.FormTrangChu.resources
+D:\UpDate\Truong\WFQLyNhanVien\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.FormQuanLyYeuCau.resources
+D:\UpDate\Truong\WFQLyNhanVien\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.RandomNhanSu.resources
+D:\UpDate\Truong\WFQLyNhanVien\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormTKNgay.resources
+D:\UpDate\Truong\WFQLyNhanVien\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.TimKiem.LichTrucf.resources
+D:\UpDate\Truong\WFQLyNhanVien\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.TimCanBo.resources
+D:\UpDate\Truong\WFQLyNhanVien\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.TimKiem.TimKiemCa.resources
+D:\UpDate\Truong\WFQLyNhanVien\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.TimKiem.TimKiemNgay.resources
+D:\UpDate\Truong\WFQLyNhanVien\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.csproj.GenerateResource.cache
+D:\UpDate\Truong\WFQLyNhanVien\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.csproj.CoreCompileInputs.cache
+D:\UpDate\Truong\WFQLyNhanVien\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.csproj.CopyComplete
+D:\UpDate\Truong\WFQLyNhanVien\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.exe
+D:\UpDate\Truong\WFQLyNhanVien\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.pdb
+D:\UpDate\Truong\WFQLyNhanVien\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.In.FormIn.resources
+C:\Users\PC\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\WFQLyNhanVien\Source\QLNV\bin\Debug\QLNV.exe.config
+C:\Users\PC\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\WFQLyNhanVien\Source\QLNV\bin\Debug\QLNV.exe
+C:\Users\PC\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\WFQLyNhanVien\Source\QLNV\bin\Debug\QLNV.pdb
+C:\Users\PC\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\WFQLyNhanVien\Source\QLNV\bin\Debug\Dapper.dll
+C:\Users\PC\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\WFQLyNhanVien\Source\QLNV\bin\Debug\EntityFramework.dll
+C:\Users\PC\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\WFQLyNhanVien\Source\QLNV\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\WFQLyNhanVien\Source\QLNV\bin\Debug\Dapper.xml
+C:\Users\PC\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\WFQLyNhanVien\Source\QLNV\bin\Debug\EntityFramework.xml
+C:\Users\PC\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\WFQLyNhanVien\Source\QLNV\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.csprojAssemblyReference.cache
+C:\Users\PC\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.Properties.Resources.resources
+C:\Users\PC\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhMucCanBo.SuaCanBo.resources
+C:\Users\PC\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhMucCanBo.XemCanBo.resources
+C:\Users\PC\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhMucCanBo.XoaCanBo.resources
+C:\Users\PC\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhMucYeuCau.SuaYeuCau.resources
+C:\Users\PC\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhMucYeuCau.XoaYeuCau.resources
+C:\Users\PC\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhSachCanBo.resources
+C:\Users\PC\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhSachCaTruc.resources
+C:\Users\PC\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.frmQuanLyDot.resources
+C:\Users\PC\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.In.FormIn.resources
+C:\Users\PC\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormChonCa.resources
+C:\Users\PC\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.FormDangNhap.resources
+C:\Users\PC\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.FormQuanLyCanBo.resources
+C:\Users\PC\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormSuaYeuCau.resources
+C:\Users\PC\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormThemSua.resources
+C:\Users\PC\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.TaoDotCongViet.resources
+C:\Users\PC\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormTKCa.resources
+C:\Users\PC\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormTKCanBo.resources
+C:\Users\PC\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.FormTrangChu.resources
+C:\Users\PC\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.FormQuanLyYeuCau.resources
+C:\Users\PC\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.RandomNhanSu.resources
+C:\Users\PC\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormTKNgay.resources
+C:\Users\PC\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.TimKiem.LichTrucf.resources
+C:\Users\PC\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.TimCanBo.resources
+C:\Users\PC\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.TimKiem.TimKiemCa.resources
+C:\Users\PC\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.TimKiem.TimKiemNgay.resources
+C:\Users\PC\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.csproj.GenerateResource.cache
+C:\Users\PC\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.csproj.CoreCompileInputs.cache
+C:\Users\PC\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.csproj.CopyComplete
+C:\Users\PC\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.exe
+C:\Users\PC\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.pdb
+D:\UpDate\Truong\WFQLyNhanVien\Source\QLNV\bin\Debug\QLNV.exe.config
+D:\UpDate\Truong\WFQLyNhanVien\Source\QLNV\bin\Debug\QLNV.exe
+D:\UpDate\Truong\WFQLyNhanVien\Source\QLNV\bin\Debug\QLNV.pdb
+D:\UpDate\Truong\WFQLyNhanVien\Source\QLNV\bin\Debug\Dapper.dll
+D:\UpDate\Truong\WFQLyNhanVien\Source\QLNV\bin\Debug\EntityFramework.dll
+D:\UpDate\Truong\WFQLyNhanVien\Source\QLNV\bin\Debug\EntityFramework.SqlServer.dll
+D:\UpDate\Truong\WFQLyNhanVien\Source\QLNV\bin\Debug\Dapper.xml
+D:\UpDate\Truong\WFQLyNhanVien\Source\QLNV\bin\Debug\EntityFramework.xml
+D:\UpDate\Truong\WFQLyNhanVien\Source\QLNV\bin\Debug\EntityFramework.SqlServer.xml
+D:\UpDate\Truong\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.csprojAssemblyReference.cache
+D:\UpDate\Truong\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.Properties.Resources.resources
+D:\UpDate\Truong\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhMucCanBo.SuaCanBo.resources
+D:\UpDate\Truong\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhMucCanBo.XemCanBo.resources
+D:\UpDate\Truong\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhMucCanBo.XoaCanBo.resources
+D:\UpDate\Truong\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhMucYeuCau.SuaYeuCau.resources
+D:\UpDate\Truong\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhMucYeuCau.XoaYeuCau.resources
+D:\UpDate\Truong\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhSachCanBo.resources
+D:\UpDate\Truong\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.DanhSachCaTruc.resources
+D:\UpDate\Truong\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.frmQuanLyDot.resources
+D:\UpDate\Truong\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.In.FormIn.resources
+D:\UpDate\Truong\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormChonCa.resources
+D:\UpDate\Truong\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.FormDangNhap.resources
+D:\UpDate\Truong\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.FormQuanLyCanBo.resources
+D:\UpDate\Truong\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormSuaYeuCau.resources
+D:\UpDate\Truong\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormThemSua.resources
+D:\UpDate\Truong\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.TaoDotCongViet.resources
+D:\UpDate\Truong\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormTKCa.resources
+D:\UpDate\Truong\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormTKCanBo.resources
+D:\UpDate\Truong\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.FormTrangChu.resources
+D:\UpDate\Truong\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.FormQuanLyYeuCau.resources
+D:\UpDate\Truong\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.RandomNhanSu.resources
+D:\UpDate\Truong\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.FormTKNgay.resources
+D:\UpDate\Truong\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.TimKiem.LichTrucf.resources
+D:\UpDate\Truong\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.TimCanBo.resources
+D:\UpDate\Truong\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.TimKiem.TimKiemCa.resources
+D:\UpDate\Truong\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.View.TimKiem.TimKiemNgay.resources
+D:\UpDate\Truong\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.csproj.GenerateResource.cache
+D:\UpDate\Truong\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.csproj.CoreCompileInputs.cache
+D:\UpDate\Truong\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.csproj.CopyComplete
+D:\UpDate\Truong\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.exe
+D:\UpDate\Truong\WFQLyNhanVien\Source\QLNV\obj\Debug\QLNV.pdb
+D:\BaiTapLopKy6\TTN\Truong\WFQLyNhanVien_real\Source\QLNV\bin\Debug\QLNV.exe.config
+D:\BaiTapLopKy6\TTN\Truong\WFQLyNhanVien_real\Source\QLNV\bin\Debug\QLNV.exe
+D:\BaiTapLopKy6\TTN\Truong\WFQLyNhanVien_real\Source\QLNV\bin\Debug\QLNV.pdb
+D:\BaiTapLopKy6\TTN\Truong\WFQLyNhanVien_real\Source\QLNV\bin\Debug\Dapper.dll
+D:\BaiTapLopKy6\TTN\Truong\WFQLyNhanVien_real\Source\QLNV\bin\Debug\EntityFramework.dll
+D:\BaiTapLopKy6\TTN\Truong\WFQLyNhanVien_real\Source\QLNV\bin\Debug\EntityFramework.SqlServer.dll
+D:\BaiTapLopKy6\TTN\Truong\WFQLyNhanVien_real\Source\QLNV\bin\Debug\Dapper.xml
+D:\BaiTapLopKy6\TTN\Truong\WFQLyNhanVien_real\Source\QLNV\bin\Debug\EntityFramework.xml
+D:\BaiTapLopKy6\TTN\Truong\WFQLyNhanVien_real\Source\QLNV\bin\Debug\EntityFramework.SqlServer.xml
+D:\BaiTapLopKy6\TTN\Truong\WFQLyNhanVien_real\Source\QLNV\obj\Debug\QLNV.Properties.Resources.resources
+D:\BaiTapLopKy6\TTN\Truong\WFQLyNhanVien_real\Source\QLNV\obj\Debug\QLNV.View.DanhMucCanBo.SuaCanBo.resources
+D:\BaiTapLopKy6\TTN\Truong\WFQLyNhanVien_real\Source\QLNV\obj\Debug\QLNV.View.DanhMucCanBo.XemCanBo.resources
+D:\BaiTapLopKy6\TTN\Truong\WFQLyNhanVien_real\Source\QLNV\obj\Debug\QLNV.View.DanhMucCanBo.XoaCanBo.resources
+D:\BaiTapLopKy6\TTN\Truong\WFQLyNhanVien_real\Source\QLNV\obj\Debug\QLNV.View.DanhMucYeuCau.SuaYeuCau.resources
+D:\BaiTapLopKy6\TTN\Truong\WFQLyNhanVien_real\Source\QLNV\obj\Debug\QLNV.View.DanhMucYeuCau.XoaYeuCau.resources
+D:\BaiTapLopKy6\TTN\Truong\WFQLyNhanVien_real\Source\QLNV\obj\Debug\QLNV.View.DanhSachCanBo.resources
+D:\BaiTapLopKy6\TTN\Truong\WFQLyNhanVien_real\Source\QLNV\obj\Debug\QLNV.View.DanhSachCaTruc.resources
+D:\BaiTapLopKy6\TTN\Truong\WFQLyNhanVien_real\Source\QLNV\obj\Debug\QLNV.View.frmQuanLyDot.resources
+D:\BaiTapLopKy6\TTN\Truong\WFQLyNhanVien_real\Source\QLNV\obj\Debug\QLNV.View.In.FormIn.resources
+D:\BaiTapLopKy6\TTN\Truong\WFQLyNhanVien_real\Source\QLNV\obj\Debug\QLNV.View.FormChonCa.resources
+D:\BaiTapLopKy6\TTN\Truong\WFQLyNhanVien_real\Source\QLNV\obj\Debug\QLNV.FormDangNhap.resources
+D:\BaiTapLopKy6\TTN\Truong\WFQLyNhanVien_real\Source\QLNV\obj\Debug\QLNV.FormQuanLyCanBo.resources
+D:\BaiTapLopKy6\TTN\Truong\WFQLyNhanVien_real\Source\QLNV\obj\Debug\QLNV.View.FormSuaYeuCau.resources
+D:\BaiTapLopKy6\TTN\Truong\WFQLyNhanVien_real\Source\QLNV\obj\Debug\QLNV.View.FormThemSua.resources
+D:\BaiTapLopKy6\TTN\Truong\WFQLyNhanVien_real\Source\QLNV\obj\Debug\QLNV.View.TaoDotCongViet.resources
+D:\BaiTapLopKy6\TTN\Truong\WFQLyNhanVien_real\Source\QLNV\obj\Debug\QLNV.View.FormTKCa.resources
+D:\BaiTapLopKy6\TTN\Truong\WFQLyNhanVien_real\Source\QLNV\obj\Debug\QLNV.View.FormTKCanBo.resources
+D:\BaiTapLopKy6\TTN\Truong\WFQLyNhanVien_real\Source\QLNV\obj\Debug\QLNV.FormTrangChu.resources
+D:\BaiTapLopKy6\TTN\Truong\WFQLyNhanVien_real\Source\QLNV\obj\Debug\QLNV.FormQuanLyYeuCau.resources
+D:\BaiTapLopKy6\TTN\Truong\WFQLyNhanVien_real\Source\QLNV\obj\Debug\QLNV.View.RandomNhanSu.resources
+D:\BaiTapLopKy6\TTN\Truong\WFQLyNhanVien_real\Source\QLNV\obj\Debug\QLNV.View.FormTKNgay.resources
+D:\BaiTapLopKy6\TTN\Truong\WFQLyNhanVien_real\Source\QLNV\obj\Debug\QLNV.View.TimKiem.LichTrucf.resources
+D:\BaiTapLopKy6\TTN\Truong\WFQLyNhanVien_real\Source\QLNV\obj\Debug\QLNV.View.TimCanBo.resources
+D:\BaiTapLopKy6\TTN\Truong\WFQLyNhanVien_real\Source\QLNV\obj\Debug\QLNV.View.TimKiem.TimKiemCa.resources
+D:\BaiTapLopKy6\TTN\Truong\WFQLyNhanVien_real\Source\QLNV\obj\Debug\QLNV.View.TimKiem.TimKiemNgay.resources
+D:\BaiTapLopKy6\TTN\Truong\WFQLyNhanVien_real\Source\QLNV\obj\Debug\QLNV.csproj.GenerateResource.cache
+D:\BaiTapLopKy6\TTN\Truong\WFQLyNhanVien_real\Source\QLNV\obj\Debug\QLNV.csproj.CoreCompileInputs.cache
+D:\BaiTapLopKy6\TTN\Truong\WFQLyNhanVien_real\Source\QLNV\obj\Debug\QLNV.csproj.CopyComplete
+D:\BaiTapLopKy6\TTN\Truong\WFQLyNhanVien_real\Source\QLNV\obj\Debug\QLNV.exe
+D:\BaiTapLopKy6\TTN\Truong\WFQLyNhanVien_real\Source\QLNV\obj\Debug\QLNV.pdb
+D:\BaiTapLopKy6\TTN\Truong\WFQLyNhanVien_real\Source\QLNV\obj\Debug\QLNV.csprojAssemblyReference.cache
+D:\BaiTapLopKy6\WFQLyNhanVien_real\Source\QLNV\bin\Debug\QLNV.exe.config
+D:\BaiTapLopKy6\WFQLyNhanVien_real\Source\QLNV\bin\Debug\QLNV.exe
+D:\BaiTapLopKy6\WFQLyNhanVien_real\Source\QLNV\bin\Debug\QLNV.pdb
+D:\BaiTapLopKy6\WFQLyNhanVien_real\Source\QLNV\bin\Debug\Dapper.dll
+D:\BaiTapLopKy6\WFQLyNhanVien_real\Source\QLNV\bin\Debug\EntityFramework.dll
+D:\BaiTapLopKy6\WFQLyNhanVien_real\Source\QLNV\bin\Debug\EntityFramework.SqlServer.dll
+D:\BaiTapLopKy6\WFQLyNhanVien_real\Source\QLNV\bin\Debug\Dapper.xml
+D:\BaiTapLopKy6\WFQLyNhanVien_real\Source\QLNV\bin\Debug\EntityFramework.xml
+D:\BaiTapLopKy6\WFQLyNhanVien_real\Source\QLNV\bin\Debug\EntityFramework.SqlServer.xml
+D:\BaiTapLopKy6\WFQLyNhanVien_real\Source\QLNV\obj\Debug\QLNV.csprojAssemblyReference.cache
+D:\BaiTapLopKy6\WFQLyNhanVien_real\Source\QLNV\obj\Debug\QLNV.Properties.Resources.resources
+D:\BaiTapLopKy6\WFQLyNhanVien_real\Source\QLNV\obj\Debug\QLNV.View.DanhMucCanBo.SuaCanBo.resources
+D:\BaiTapLopKy6\WFQLyNhanVien_real\Source\QLNV\obj\Debug\QLNV.View.DanhMucCanBo.XemCanBo.resources
+D:\BaiTapLopKy6\WFQLyNhanVien_real\Source\QLNV\obj\Debug\QLNV.View.DanhMucCanBo.XoaCanBo.resources
+D:\BaiTapLopKy6\WFQLyNhanVien_real\Source\QLNV\obj\Debug\QLNV.View.DanhMucYeuCau.SuaYeuCau.resources
+D:\BaiTapLopKy6\WFQLyNhanVien_real\Source\QLNV\obj\Debug\QLNV.View.DanhMucYeuCau.XoaYeuCau.resources
+D:\BaiTapLopKy6\WFQLyNhanVien_real\Source\QLNV\obj\Debug\QLNV.View.DanhSachCanBo.resources
+D:\BaiTapLopKy6\WFQLyNhanVien_real\Source\QLNV\obj\Debug\QLNV.View.DanhSachCaTruc.resources
+D:\BaiTapLopKy6\WFQLyNhanVien_real\Source\QLNV\obj\Debug\QLNV.View.frmQuanLyDot.resources
+D:\BaiTapLopKy6\WFQLyNhanVien_real\Source\QLNV\obj\Debug\QLNV.View.In.FormIn.resources
+D:\BaiTapLopKy6\WFQLyNhanVien_real\Source\QLNV\obj\Debug\QLNV.View.FormChonCa.resources
+D:\BaiTapLopKy6\WFQLyNhanVien_real\Source\QLNV\obj\Debug\QLNV.FormDangNhap.resources
+D:\BaiTapLopKy6\WFQLyNhanVien_real\Source\QLNV\obj\Debug\QLNV.FormQuanLyCanBo.resources
+D:\BaiTapLopKy6\WFQLyNhanVien_real\Source\QLNV\obj\Debug\QLNV.View.FormSuaYeuCau.resources
+D:\BaiTapLopKy6\WFQLyNhanVien_real\Source\QLNV\obj\Debug\QLNV.View.FormThemSua.resources
+D:\BaiTapLopKy6\WFQLyNhanVien_real\Source\QLNV\obj\Debug\QLNV.View.TaoDotCongViet.resources
+D:\BaiTapLopKy6\WFQLyNhanVien_real\Source\QLNV\obj\Debug\QLNV.View.FormTKCa.resources
+D:\BaiTapLopKy6\WFQLyNhanVien_real\Source\QLNV\obj\Debug\QLNV.View.FormTKCanBo.resources
+D:\BaiTapLopKy6\WFQLyNhanVien_real\Source\QLNV\obj\Debug\QLNV.FormTrangChu.resources
+D:\BaiTapLopKy6\WFQLyNhanVien_real\Source\QLNV\obj\Debug\QLNV.FormQuanLyYeuCau.resources
+D:\BaiTapLopKy6\WFQLyNhanVien_real\Source\QLNV\obj\Debug\QLNV.View.RandomNhanSu.resources
+D:\BaiTapLopKy6\WFQLyNhanVien_real\Source\QLNV\obj\Debug\QLNV.View.FormTKNgay.resources
+D:\BaiTapLopKy6\WFQLyNhanVien_real\Source\QLNV\obj\Debug\QLNV.View.TimKiem.LichTrucf.resources
+D:\BaiTapLopKy6\WFQLyNhanVien_real\Source\QLNV\obj\Debug\QLNV.View.TimCanBo.resources
+D:\BaiTapLopKy6\WFQLyNhanVien_real\Source\QLNV\obj\Debug\QLNV.View.TimKiem.TimKiemCa.resources
+D:\BaiTapLopKy6\WFQLyNhanVien_real\Source\QLNV\obj\Debug\QLNV.View.TimKiem.TimKiemNgay.resources
+D:\BaiTapLopKy6\WFQLyNhanVien_real\Source\QLNV\obj\Debug\QLNV.csproj.GenerateResource.cache
+D:\BaiTapLopKy6\WFQLyNhanVien_real\Source\QLNV\obj\Debug\QLNV.csproj.CoreCompileInputs.cache
+D:\BaiTapLopKy6\WFQLyNhanVien_real\Source\QLNV\obj\Debug\QLNV.csproj.CopyComplete
+D:\BaiTapLopKy6\WFQLyNhanVien_real\Source\QLNV\obj\Debug\QLNV.exe
+D:\BaiTapLopKy6\WFQLyNhanVien_real\Source\QLNV\obj\Debug\QLNV.pdb

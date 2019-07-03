@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="b5bfc480e36c47ebb7402240bfd108d8" Name="Diagram1" ZoomLevel="64">
+        <EntityTypeShape EntityType="QLThiCCModel.ChungChi" Width="1.5" PointX="15" PointY="5.625" />
+        <EntityTypeShape EntityType="QLThiCCModel.DanhSachThi" Width="1.5" PointX="8.25" PointY="5.375" />
+        <EntityTypeShape EntityType="QLThiCCModel.DanhSachThuBai" Width="1.5" PointX="10.5" PointY="5.25" />
+        <EntityTypeShape EntityType="QLThiCCModel.DotThi" Width="1.5" PointX="6" PointY="1.625" />
+        <EntityTypeShape EntityType="QLThiCCModel.GiaoVien" Width="1.5" PointX="6" PointY="9.75" />
+        <EntityTypeShape EntityType="QLThiCCModel.HoiDong" Width="1.5" PointX="8.25" PointY="1.375" />
+        <EntityTypeShape EntityType="QLThiCCModel.KetQua" Width="1.5" PointX="12.75" PointY="5.625" />
+        <EntityTypeShape EntityType="QLThiCCModel.LePhi" Width="1.5" PointX="3" PointY="1.375" />
+        <EntityTypeShape EntityType="QLThiCCModel.LePhiTest" Width="1.5" PointX="6" PointY="5.25" />
+        <EntityTypeShape EntityType="QLThiCCModel.NhiemVu" Width="1.5" PointX="6" PointY="12.875" />
+        <EntityTypeShape EntityType="QLThiCCModel.NhuCau" Width="1.5" PointX="0.75" PointY="1.625" />
+        <EntityTypeShape EntityType="QLThiCCModel.NoiDung" Width="1.5" PointX="0.75" PointY="5.5" />
+        <EntityTypeShape EntityType="QLThiCCModel.sysdiagram" Width="1.5" PointX="8.75" PointY="8.75" />
+        <EntityTypeShape EntityType="QLThiCCModel.ThiSinh" Width="1.5" PointX="3" PointY="4.75" />
+        <EntityTypeShape EntityType="QLThiCCModel.User" Width="1.5" PointX="0.75" PointY="9.75" />
+        <AssociationConnector Association="QLThiCCModel.FK_ChungChi_KetQua" />
+        <AssociationConnector Association="QLThiCCModel.FK_DanhSachThi_DotThi1" />
+        <AssociationConnector Association="QLThiCCModel.FK_DanhSachThi_ThiSinh1" />
+        <AssociationConnector Association="QLThiCCModel.FK_DanhSachThuBai_DanhSachThi" />
+        <AssociationConnector Association="QLThiCCModel.FK_KetQua_DanhSachThuBai" />
+        <AssociationConnector Association="QLThiCCModel.FK_HoiDong_DotThi" />
+        <AssociationConnector Association="QLThiCCModel.FK_HoiDong_GiaoVien" />
+        <AssociationConnector Association="QLThiCCModel.FK_HoiDong_NhiemVu" />
+        <AssociationConnector Association="QLThiCCModel.FK_LePhi_NhuCau" />
+        <AssociationConnector Association="QLThiCCModel.FK_LePhi_NoiDung" />
+        <AssociationConnector Association="QLThiCCModel.FK_LePhiTest_NhuCau" />
+        <AssociationConnector Association="QLThiCCModel.FK_LePhiTest_NoiDung" />
+        <AssociationConnector Association="QLThiCCModel.FK_ThiSinh1_NhuCau" />
+        <AssociationConnector Association="QLThiCCModel.FK_ThiSinh1_NoiDung" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

@@ -861,3 +861,5 @@ D:\GitTest\Source\QLNV\obj\Debug\QLNV.View.TimKiem.LichTrucf.resources
 D:\GitTest\Source\QLNV\obj\Debug\QLNV.View.TimCanBo.resources
 D:\GitTest\Source\QLNV\obj\Debug\QLNV.View.TimKiem.TimKiemCa.resources
 D:\GitTest\Source\QLNV\obj\Debug\QLNV.View.TimKiem.TimKiemNgay.resources
+D:\GitTest\Source\QLNV\obj\Debug\QLNV.csprojAssemblyReference.cache
+D:\GitTest\Source\QLNV\obj\Debug\QLNV.View.Form1.resources

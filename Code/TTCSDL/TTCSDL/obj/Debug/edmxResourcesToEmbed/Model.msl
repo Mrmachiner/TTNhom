@@ -1,0 +1,762 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="QLThiCCModelStoreContainer" CdmEntityContainer="QLThiCCEntities">
+    <FunctionImportMapping FunctionImportName="Sua_GiaoVien_ID" FunctionName="QLThiCCModel.Store.Sua_GiaoVien_ID" />
+    <FunctionImportMapping FunctionImportName="SuaTheoThiSinh" FunctionName="QLThiCCModel.Store.SuaTheoThiSinh" />
+    <FunctionImportMapping FunctionImportName="Them_GiaoVien" FunctionName="QLThiCCModel.Store.Them_GiaoVien" />
+    <FunctionImportMapping FunctionImportName="ThemTS" FunctionName="QLThiCCModel.Store.ThemTS" />
+    <FunctionImportMapping FunctionImportName="Xoa_GiaoVien_ID" FunctionName="QLThiCCModel.Store.Xoa_GiaoVien_ID" />
+    <FunctionImportMapping FunctionImportName="XoaTheoMaThiSinh" FunctionName="QLThiCCModel.Store.XoaTheoMaThiSinh" />
+    <FunctionImportMapping FunctionImportName="ChungChi_Delete" FunctionName="QLThiCCModel.Store.ChungChi_Delete" />
+    <FunctionImportMapping FunctionImportName="ChungChi_Find" FunctionName="QLThiCCModel.Store.ChungChi_Find">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLThiCCModel.ChungChi_Find_Result">
+          <ScalarProperty Name="IDChungChi" ColumnName="IDChungChi" />
+          <ScalarProperty Name="IDKetQua" ColumnName="IDKetQua" />
+          <ScalarProperty Name="SoVaoSo" ColumnName="SoVaoSo" />
+          <ScalarProperty Name="SoVanBang" ColumnName="SoVanBang" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="ChungChi_Get_List" FunctionName="QLThiCCModel.Store.ChungChi_Get_List">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLThiCCModel.ChungChi_Get_List_Result">
+          <ScalarProperty Name="IDChungChi" ColumnName="IDChungChi" />
+          <ScalarProperty Name="IDKetQua" ColumnName="IDKetQua" />
+          <ScalarProperty Name="SoVaoSo" ColumnName="SoVaoSo" />
+          <ScalarProperty Name="SoVanBang" ColumnName="SoVanBang" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="ChungChi_GetByIdChungChi" FunctionName="QLThiCCModel.Store.ChungChi_GetByIdChungChi">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLThiCCModel.ChungChi_GetByIdChungChi_Result">
+          <ScalarProperty Name="IDChungChi" ColumnName="IDChungChi" />
+          <ScalarProperty Name="IDKetQua" ColumnName="IDKetQua" />
+          <ScalarProperty Name="SoVaoSo" ColumnName="SoVaoSo" />
+          <ScalarProperty Name="SoVanBang" ColumnName="SoVanBang" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="ChungChi_GetByIdKetQua" FunctionName="QLThiCCModel.Store.ChungChi_GetByIdKetQua">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLThiCCModel.ChungChi_GetByIdKetQua_Result">
+          <ScalarProperty Name="IDChungChi" ColumnName="IDChungChi" />
+          <ScalarProperty Name="IDKetQua" ColumnName="IDKetQua" />
+          <ScalarProperty Name="SoVaoSo" ColumnName="SoVaoSo" />
+          <ScalarProperty Name="SoVanBang" ColumnName="SoVanBang" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="ChungChi_Insert" FunctionName="QLThiCCModel.Store.ChungChi_Insert" />
+    <FunctionImportMapping FunctionImportName="ChungChi_Update" FunctionName="QLThiCCModel.Store.ChungChi_Update" />
+    <FunctionImportMapping FunctionImportName="DanhSachThi_Delete" FunctionName="QLThiCCModel.Store.DanhSachThi_Delete" />
+    <FunctionImportMapping FunctionImportName="DanhSachThi_Find" FunctionName="QLThiCCModel.Store.DanhSachThi_Find">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLThiCCModel.DanhSachThi_Find_Result">
+          <ScalarProperty Name="IDThi" ColumnName="IDThi" />
+          <ScalarProperty Name="SBD" ColumnName="SBD" />
+          <ScalarProperty Name="IDThiSinh" ColumnName="IDThiSinh" />
+          <ScalarProperty Name="IDDotThi" ColumnName="IDDotThi" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="DanhSachThi_Get_List" FunctionName="QLThiCCModel.Store.DanhSachThi_Get_List">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLThiCCModel.DanhSachThi_Get_List_Result">
+          <ScalarProperty Name="IDThi" ColumnName="IDThi" />
+          <ScalarProperty Name="SBD" ColumnName="SBD" />
+          <ScalarProperty Name="IDThiSinh" ColumnName="IDThiSinh" />
+          <ScalarProperty Name="IDDotThi" ColumnName="IDDotThi" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="DanhSachThi_GetByIdDotThi" FunctionName="QLThiCCModel.Store.DanhSachThi_GetByIdDotThi">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLThiCCModel.DanhSachThi_GetByIdDotThi_Result">
+          <ScalarProperty Name="IDThi" ColumnName="IDThi" />
+          <ScalarProperty Name="SBD" ColumnName="SBD" />
+          <ScalarProperty Name="IDThiSinh" ColumnName="IDThiSinh" />
+          <ScalarProperty Name="IDDotThi" ColumnName="IDDotThi" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="DanhSachThi_GetByIdThi" FunctionName="QLThiCCModel.Store.DanhSachThi_GetByIdThi">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLThiCCModel.DanhSachThi_GetByIdThi_Result">
+          <ScalarProperty Name="IDThi" ColumnName="IDThi" />
+          <ScalarProperty Name="SBD" ColumnName="SBD" />
+          <ScalarProperty Name="IDThiSinh" ColumnName="IDThiSinh" />
+          <ScalarProperty Name="IDDotThi" ColumnName="IDDotThi" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="DanhSachThi_GetByIdThiSinh" FunctionName="QLThiCCModel.Store.DanhSachThi_GetByIdThiSinh">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLThiCCModel.DanhSachThi_GetByIdThiSinh_Result">
+          <ScalarProperty Name="IDThi" ColumnName="IDThi" />
+          <ScalarProperty Name="SBD" ColumnName="SBD" />
+          <ScalarProperty Name="IDThiSinh" ColumnName="IDThiSinh" />
+          <ScalarProperty Name="IDDotThi" ColumnName="IDDotThi" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="DanhSachThi_GetPaged" FunctionName="QLThiCCModel.Store.DanhSachThi_GetPaged" />
+    <FunctionImportMapping FunctionImportName="DanhSachThi_Insert" FunctionName="QLThiCCModel.Store.DanhSachThi_Insert" />
+    <FunctionImportMapping FunctionImportName="DanhSachThi_Update" FunctionName="QLThiCCModel.Store.DanhSachThi_Update" />
+    <FunctionImportMapping FunctionImportName="DanhSachThuBai_Delete" FunctionName="QLThiCCModel.Store.DanhSachThuBai_Delete" />
+    <FunctionImportMapping FunctionImportName="DanhSachThuBai_Find" FunctionName="QLThiCCModel.Store.DanhSachThuBai_Find">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLThiCCModel.DanhSachThuBai_Find_Result">
+          <ScalarProperty Name="IDThuBai" ColumnName="IDThuBai" />
+          <ScalarProperty Name="IDThi" ColumnName="IDThi" />
+          <ScalarProperty Name="DiemTN" ColumnName="DiemTN" />
+          <ScalarProperty Name="KichThuocWord" ColumnName="KichThuocWord" />
+          <ScalarProperty Name="KichThuocExcel" ColumnName="KichThuocExcel" />
+          <ScalarProperty Name="KichThuocPpt" ColumnName="KichThuocPpt" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="DanhSachThuBai_Get_List" FunctionName="QLThiCCModel.Store.DanhSachThuBai_Get_List">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLThiCCModel.DanhSachThuBai_Get_List_Result">
+          <ScalarProperty Name="IDThuBai" ColumnName="IDThuBai" />
+          <ScalarProperty Name="IDThi" ColumnName="IDThi" />
+          <ScalarProperty Name="DiemTN" ColumnName="DiemTN" />
+          <ScalarProperty Name="KichThuocWord" ColumnName="KichThuocWord" />
+          <ScalarProperty Name="KichThuocExcel" ColumnName="KichThuocExcel" />
+          <ScalarProperty Name="KichThuocPpt" ColumnName="KichThuocPpt" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="DanhSachThuBai_GetByIdThi" FunctionName="QLThiCCModel.Store.DanhSachThuBai_GetByIdThi">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLThiCCModel.DanhSachThuBai_GetByIdThi_Result">
+          <ScalarProperty Name="IDThuBai" ColumnName="IDThuBai" />
+          <ScalarProperty Name="IDThi" ColumnName="IDThi" />
+          <ScalarProperty Name="DiemTN" ColumnName="DiemTN" />
+          <ScalarProperty Name="KichThuocWord" ColumnName="KichThuocWord" />
+          <ScalarProperty Name="KichThuocExcel" ColumnName="KichThuocExcel" />
+          <ScalarProperty Name="KichThuocPpt" ColumnName="KichThuocPpt" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="DanhSachThuBai_GetByIdThuBai" FunctionName="QLThiCCModel.Store.DanhSachThuBai_GetByIdThuBai">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLThiCCModel.DanhSachThuBai_GetByIdThuBai_Result">
+          <ScalarProperty Name="IDThuBai" ColumnName="IDThuBai" />
+          <ScalarProperty Name="IDThi" ColumnName="IDThi" />
+          <ScalarProperty Name="DiemTN" ColumnName="DiemTN" />
+          <ScalarProperty Name="KichThuocWord" ColumnName="KichThuocWord" />
+          <ScalarProperty Name="KichThuocExcel" ColumnName="KichThuocExcel" />
+          <ScalarProperty Name="KichThuocPpt" ColumnName="KichThuocPpt" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="DanhSachThuBai_GetPaged" FunctionName="QLThiCCModel.Store.DanhSachThuBai_GetPaged" />
+    <FunctionImportMapping FunctionImportName="DanhSachThuBai_Insert" FunctionName="QLThiCCModel.Store.DanhSachThuBai_Insert" />
+    <FunctionImportMapping FunctionImportName="DanhSachThuBai_Update" FunctionName="QLThiCCModel.Store.DanhSachThuBai_Update" />
+    <FunctionImportMapping FunctionImportName="DotThi_Delete" FunctionName="QLThiCCModel.Store.DotThi_Delete" />
+    <FunctionImportMapping FunctionImportName="DotThi_Find" FunctionName="QLThiCCModel.Store.DotThi_Find">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLThiCCModel.DotThi_Find_Result">
+          <ScalarProperty Name="IDDotThi" ColumnName="IDDotThi" />
+          <ScalarProperty Name="TuNgay" ColumnName="TuNgay" />
+          <ScalarProperty Name="DenNgay" ColumnName="DenNgay" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="DotThi_Get_List" FunctionName="QLThiCCModel.Store.DotThi_Get_List">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLThiCCModel.DotThi_Get_List_Result">
+          <ScalarProperty Name="IDDotThi" ColumnName="IDDotThi" />
+          <ScalarProperty Name="TuNgay" ColumnName="TuNgay" />
+          <ScalarProperty Name="DenNgay" ColumnName="DenNgay" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="DotThi_GetByIdDotThi" FunctionName="QLThiCCModel.Store.DotThi_GetByIdDotThi">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLThiCCModel.DotThi_GetByIdDotThi_Result">
+          <ScalarProperty Name="IDDotThi" ColumnName="IDDotThi" />
+          <ScalarProperty Name="TuNgay" ColumnName="TuNgay" />
+          <ScalarProperty Name="DenNgay" ColumnName="DenNgay" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="DotThi_GetPaged" FunctionName="QLThiCCModel.Store.DotThi_GetPaged" />
+    <FunctionImportMapping FunctionImportName="DotThi_Insert" FunctionName="QLThiCCModel.Store.DotThi_Insert" />
+    <FunctionImportMapping FunctionImportName="DotThi_Update" FunctionName="QLThiCCModel.Store.DotThi_Update" />
+    <FunctionImportMapping FunctionImportName="GiaoVien_Delete" FunctionName="QLThiCCModel.Store.GiaoVien_Delete" />
+    <FunctionImportMapping FunctionImportName="GiaoVien_Find" FunctionName="QLThiCCModel.Store.GiaoVien_Find">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLThiCCModel.GiaoVien_Find_Result">
+          <ScalarProperty Name="IDGiaoVien" ColumnName="IDGiaoVien" />
+          <ScalarProperty Name="Ho" ColumnName="Ho" />
+          <ScalarProperty Name="Ten" ColumnName="Ten" />
+          <ScalarProperty Name="DonVi" ColumnName="DonVi" />
+          <ScalarProperty Name="CapBac" ColumnName="CapBac" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="GiaoVien_Get_List" FunctionName="QLThiCCModel.Store.GiaoVien_Get_List">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLThiCCModel.GiaoVien_Get_List_Result">
+          <ScalarProperty Name="IDGiaoVien" ColumnName="IDGiaoVien" />
+          <ScalarProperty Name="Ho" ColumnName="Ho" />
+          <ScalarProperty Name="Ten" ColumnName="Ten" />
+          <ScalarProperty Name="DonVi" ColumnName="DonVi" />
+          <ScalarProperty Name="CapBac" ColumnName="CapBac" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="GiaoVien_GetByIdGiaoVien" FunctionName="QLThiCCModel.Store.GiaoVien_GetByIdGiaoVien">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLThiCCModel.GiaoVien_GetByIdGiaoVien_Result">
+          <ScalarProperty Name="IDGiaoVien" ColumnName="IDGiaoVien" />
+          <ScalarProperty Name="Ho" ColumnName="Ho" />
+          <ScalarProperty Name="Ten" ColumnName="Ten" />
+          <ScalarProperty Name="DonVi" ColumnName="DonVi" />
+          <ScalarProperty Name="CapBac" ColumnName="CapBac" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="GiaoVien_GetPaged" FunctionName="QLThiCCModel.Store.GiaoVien_GetPaged" />
+    <FunctionImportMapping FunctionImportName="GiaoVien_Insert" FunctionName="QLThiCCModel.Store.GiaoVien_Insert" />
+    <FunctionImportMapping FunctionImportName="GiaoVien_Update" FunctionName="QLThiCCModel.Store.GiaoVien_Update" />
+    <FunctionImportMapping FunctionImportName="HoiDong_Delete" FunctionName="QLThiCCModel.Store.HoiDong_Delete" />
+    <FunctionImportMapping FunctionImportName="HoiDong_Find" FunctionName="QLThiCCModel.Store.HoiDong_Find">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLThiCCModel.HoiDong_Find_Result">
+          <ScalarProperty Name="IDHoiDong" ColumnName="IDHoiDong" />
+          <ScalarProperty Name="IDGiaoVien" ColumnName="IDGiaoVien" />
+          <ScalarProperty Name="IDDotThi" ColumnName="IDDotThi" />
+          <ScalarProperty Name="IDNhiemVu" ColumnName="IDNhiemVu" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="HoiDong_Get_List" FunctionName="QLThiCCModel.Store.HoiDong_Get_List">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLThiCCModel.HoiDong_Get_List_Result">
+          <ScalarProperty Name="IDHoiDong" ColumnName="IDHoiDong" />
+          <ScalarProperty Name="IDGiaoVien" ColumnName="IDGiaoVien" />
+          <ScalarProperty Name="IDDotThi" ColumnName="IDDotThi" />
+          <ScalarProperty Name="IDNhiemVu" ColumnName="IDNhiemVu" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="HoiDong_GetByIdDotThi" FunctionName="QLThiCCModel.Store.HoiDong_GetByIdDotThi">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLThiCCModel.HoiDong_GetByIdDotThi_Result">
+          <ScalarProperty Name="IDHoiDong" ColumnName="IDHoiDong" />
+          <ScalarProperty Name="IDGiaoVien" ColumnName="IDGiaoVien" />
+          <ScalarProperty Name="IDDotThi" ColumnName="IDDotThi" />
+          <ScalarProperty Name="IDNhiemVu" ColumnName="IDNhiemVu" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="HoiDong_GetByIdGiaoVien" FunctionName="QLThiCCModel.Store.HoiDong_GetByIdGiaoVien">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLThiCCModel.HoiDong_GetByIdGiaoVien_Result">
+          <ScalarProperty Name="IDHoiDong" ColumnName="IDHoiDong" />
+          <ScalarProperty Name="IDGiaoVien" ColumnName="IDGiaoVien" />
+          <ScalarProperty Name="IDDotThi" ColumnName="IDDotThi" />
+          <ScalarProperty Name="IDNhiemVu" ColumnName="IDNhiemVu" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="HoiDong_GetByIdHoiDong" FunctionName="QLThiCCModel.Store.HoiDong_GetByIdHoiDong">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLThiCCModel.HoiDong_GetByIdHoiDong_Result">
+          <ScalarProperty Name="IDHoiDong" ColumnName="IDHoiDong" />
+          <ScalarProperty Name="IDGiaoVien" ColumnName="IDGiaoVien" />
+          <ScalarProperty Name="IDDotThi" ColumnName="IDDotThi" />
+          <ScalarProperty Name="IDNhiemVu" ColumnName="IDNhiemVu" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="HoiDong_GetByIdNhiemVu" FunctionName="QLThiCCModel.Store.HoiDong_GetByIdNhiemVu">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLThiCCModel.HoiDong_GetByIdNhiemVu_Result">
+          <ScalarProperty Name="IDHoiDong" ColumnName="IDHoiDong" />
+          <ScalarProperty Name="IDGiaoVien" ColumnName="IDGiaoVien" />
+          <ScalarProperty Name="IDDotThi" ColumnName="IDDotThi" />
+          <ScalarProperty Name="IDNhiemVu" ColumnName="IDNhiemVu" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="HoiDong_GetPaged" FunctionName="QLThiCCModel.Store.HoiDong_GetPaged" />
+    <FunctionImportMapping FunctionImportName="HoiDong_Insert" FunctionName="QLThiCCModel.Store.HoiDong_Insert" />
+    <FunctionImportMapping FunctionImportName="HoiDong_Update" FunctionName="QLThiCCModel.Store.HoiDong_Update" />
+    <FunctionImportMapping FunctionImportName="KetQua_Delete" FunctionName="QLThiCCModel.Store.KetQua_Delete" />
+    <FunctionImportMapping FunctionImportName="KetQua_Find" FunctionName="QLThiCCModel.Store.KetQua_Find">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLThiCCModel.KetQua_Find_Result">
+          <ScalarProperty Name="IDKetQua" ColumnName="IDKetQua" />
+          <ScalarProperty Name="IDThuBai" ColumnName="IDThuBai" />
+          <ScalarProperty Name="DiemThucHanh" ColumnName="DiemThucHanh" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="KetQua_Get_List" FunctionName="QLThiCCModel.Store.KetQua_Get_List">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLThiCCModel.KetQua_Get_List_Result">
+          <ScalarProperty Name="IDKetQua" ColumnName="IDKetQua" />
+          <ScalarProperty Name="IDThuBai" ColumnName="IDThuBai" />
+          <ScalarProperty Name="DiemThucHanh" ColumnName="DiemThucHanh" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="KetQua_GetByIdKetQua" FunctionName="QLThiCCModel.Store.KetQua_GetByIdKetQua">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLThiCCModel.KetQua_GetByIdKetQua_Result">
+          <ScalarProperty Name="IDKetQua" ColumnName="IDKetQua" />
+          <ScalarProperty Name="IDThuBai" ColumnName="IDThuBai" />
+          <ScalarProperty Name="DiemThucHanh" ColumnName="DiemThucHanh" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="KetQua_GetByIdThuBai" FunctionName="QLThiCCModel.Store.KetQua_GetByIdThuBai">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLThiCCModel.KetQua_GetByIdThuBai_Result">
+          <ScalarProperty Name="IDKetQua" ColumnName="IDKetQua" />
+          <ScalarProperty Name="IDThuBai" ColumnName="IDThuBai" />
+          <ScalarProperty Name="DiemThucHanh" ColumnName="DiemThucHanh" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="KetQua_GetPaged" FunctionName="QLThiCCModel.Store.KetQua_GetPaged" />
+    <FunctionImportMapping FunctionImportName="KetQua_Insert" FunctionName="QLThiCCModel.Store.KetQua_Insert" />
+    <FunctionImportMapping FunctionImportName="KetQua_Update" FunctionName="QLThiCCModel.Store.KetQua_Update" />
+    <FunctionImportMapping FunctionImportName="LePhi_Delete" FunctionName="QLThiCCModel.Store.LePhi_Delete" />
+    <FunctionImportMapping FunctionImportName="LePhi_Find" FunctionName="QLThiCCModel.Store.LePhi_Find">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLThiCCModel.LePhi_Find_Result">
+          <ScalarProperty Name="IDLePhi" ColumnName="IDLePhi" />
+          <ScalarProperty Name="IDNoiDung" ColumnName="IDNoiDung" />
+          <ScalarProperty Name="IDNhuCau" ColumnName="IDNhuCau" />
+          <ScalarProperty Name="LePhi" ColumnName="LePhi" />
+          <ScalarProperty Name="TuNgay" ColumnName="TuNgay" />
+          <ScalarProperty Name="DenNgay" ColumnName="DenNgay" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="LePhi_Get_List" FunctionName="QLThiCCModel.Store.LePhi_Get_List">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLThiCCModel.LePhi_Get_List_Result">
+          <ScalarProperty Name="IDLePhi" ColumnName="IDLePhi" />
+          <ScalarProperty Name="IDNoiDung" ColumnName="IDNoiDung" />
+          <ScalarProperty Name="IDNhuCau" ColumnName="IDNhuCau" />
+          <ScalarProperty Name="LePhi" ColumnName="LePhi" />
+          <ScalarProperty Name="TuNgay" ColumnName="TuNgay" />
+          <ScalarProperty Name="DenNgay" ColumnName="DenNgay" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="LePhi_GetByIdLePhi" FunctionName="QLThiCCModel.Store.LePhi_GetByIdLePhi">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLThiCCModel.LePhi_GetByIdLePhi_Result">
+          <ScalarProperty Name="IDLePhi" ColumnName="IDLePhi" />
+          <ScalarProperty Name="IDNoiDung" ColumnName="IDNoiDung" />
+          <ScalarProperty Name="IDNhuCau" ColumnName="IDNhuCau" />
+          <ScalarProperty Name="LePhi" ColumnName="LePhi" />
+          <ScalarProperty Name="TuNgay" ColumnName="TuNgay" />
+          <ScalarProperty Name="DenNgay" ColumnName="DenNgay" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="LePhi_GetByIdNhuCau" FunctionName="QLThiCCModel.Store.LePhi_GetByIdNhuCau">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLThiCCModel.LePhi_GetByIdNhuCau_Result">
+          <ScalarProperty Name="IDLePhi" ColumnName="IDLePhi" />
+          <ScalarProperty Name="IDNoiDung" ColumnName="IDNoiDung" />
+          <ScalarProperty Name="IDNhuCau" ColumnName="IDNhuCau" />
+          <ScalarProperty Name="LePhi" ColumnName="LePhi" />
+          <ScalarProperty Name="TuNgay" ColumnName="TuNgay" />
+          <ScalarProperty Name="DenNgay" ColumnName="DenNgay" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="LePhi_GetByIdNoiDung" FunctionName="QLThiCCModel.Store.LePhi_GetByIdNoiDung">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLThiCCModel.LePhi_GetByIdNoiDung_Result">
+          <ScalarProperty Name="IDLePhi" ColumnName="IDLePhi" />
+          <ScalarProperty Name="IDNoiDung" ColumnName="IDNoiDung" />
+          <ScalarProperty Name="IDNhuCau" ColumnName="IDNhuCau" />
+          <ScalarProperty Name="LePhi" ColumnName="LePhi" />
+          <ScalarProperty Name="TuNgay" ColumnName="TuNgay" />
+          <ScalarProperty Name="DenNgay" ColumnName="DenNgay" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="LePhi_GetPaged" FunctionName="QLThiCCModel.Store.LePhi_GetPaged" />
+    <FunctionImportMapping FunctionImportName="LePhi_Insert" FunctionName="QLThiCCModel.Store.LePhi_Insert" />
+    <FunctionImportMapping FunctionImportName="LePhi_Update" FunctionName="QLThiCCModel.Store.LePhi_Update" />
+    <FunctionImportMapping FunctionImportName="NhiemVu_Delete" FunctionName="QLThiCCModel.Store.NhiemVu_Delete" />
+    <FunctionImportMapping FunctionImportName="NhiemVu_Find" FunctionName="QLThiCCModel.Store.NhiemVu_Find">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLThiCCModel.NhiemVu_Find_Result">
+          <ScalarProperty Name="IDNhiemVu" ColumnName="IDNhiemVu" />
+          <ScalarProperty Name="TenNhiemVu" ColumnName="TenNhiemVu" />
+          <ScalarProperty Name="GhiChu" ColumnName="GhiChu" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="NhiemVu_Get_List" FunctionName="QLThiCCModel.Store.NhiemVu_Get_List">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLThiCCModel.NhiemVu_Get_List_Result">
+          <ScalarProperty Name="IDNhiemVu" ColumnName="IDNhiemVu" />
+          <ScalarProperty Name="TenNhiemVu" ColumnName="TenNhiemVu" />
+          <ScalarProperty Name="GhiChu" ColumnName="GhiChu" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="NhiemVu_GetByIdNhiemVu" FunctionName="QLThiCCModel.Store.NhiemVu_GetByIdNhiemVu">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLThiCCModel.NhiemVu_GetByIdNhiemVu_Result">
+          <ScalarProperty Name="IDNhiemVu" ColumnName="IDNhiemVu" />
+          <ScalarProperty Name="TenNhiemVu" ColumnName="TenNhiemVu" />
+          <ScalarProperty Name="GhiChu" ColumnName="GhiChu" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="NhiemVu_GetPaged" FunctionName="QLThiCCModel.Store.NhiemVu_GetPaged" />
+    <FunctionImportMapping FunctionImportName="NhiemVu_Insert" FunctionName="QLThiCCModel.Store.NhiemVu_Insert" />
+    <FunctionImportMapping FunctionImportName="NhiemVu_Update" FunctionName="QLThiCCModel.Store.NhiemVu_Update" />
+    <FunctionImportMapping FunctionImportName="NhuCau_Delete" FunctionName="QLThiCCModel.Store.NhuCau_Delete" />
+    <FunctionImportMapping FunctionImportName="NhuCau_Find" FunctionName="QLThiCCModel.Store.NhuCau_Find">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLThiCCModel.NhuCau_Find_Result">
+          <ScalarProperty Name="IDNhuCau" ColumnName="IDNhuCau" />
+          <ScalarProperty Name="NhuCau" ColumnName="NhuCau" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="NhuCau_Get_List" FunctionName="QLThiCCModel.Store.NhuCau_Get_List">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLThiCCModel.NhuCau_Get_List_Result">
+          <ScalarProperty Name="IDNhuCau" ColumnName="IDNhuCau" />
+          <ScalarProperty Name="NhuCau" ColumnName="NhuCau" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="NhuCau_GetByIdNhuCau" FunctionName="QLThiCCModel.Store.NhuCau_GetByIdNhuCau">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLThiCCModel.NhuCau_GetByIdNhuCau_Result">
+          <ScalarProperty Name="IDNhuCau" ColumnName="IDNhuCau" />
+          <ScalarProperty Name="NhuCau" ColumnName="NhuCau" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="NhuCau_GetPaged" FunctionName="QLThiCCModel.Store.NhuCau_GetPaged" />
+    <FunctionImportMapping FunctionImportName="NhuCau_Insert" FunctionName="QLThiCCModel.Store.NhuCau_Insert" />
+    <FunctionImportMapping FunctionImportName="NhuCau_Update" FunctionName="QLThiCCModel.Store.NhuCau_Update" />
+    <FunctionImportMapping FunctionImportName="NoiDung_Delete" FunctionName="QLThiCCModel.Store.NoiDung_Delete" />
+    <FunctionImportMapping FunctionImportName="NoiDung_Find" FunctionName="QLThiCCModel.Store.NoiDung_Find">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLThiCCModel.NoiDung_Find_Result">
+          <ScalarProperty Name="IDNoiDung" ColumnName="IDNoiDung" />
+          <ScalarProperty Name="DoiTuong" ColumnName="DoiTuong" />
+          <ScalarProperty Name="NoiDung" ColumnName="NoiDung" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="NoiDung_Get_List" FunctionName="QLThiCCModel.Store.NoiDung_Get_List">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLThiCCModel.NoiDung_Get_List_Result">
+          <ScalarProperty Name="IDNoiDung" ColumnName="IDNoiDung" />
+          <ScalarProperty Name="DoiTuong" ColumnName="DoiTuong" />
+          <ScalarProperty Name="NoiDung" ColumnName="NoiDung" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="NoiDung_GetByIdNoiDung" FunctionName="QLThiCCModel.Store.NoiDung_GetByIdNoiDung">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLThiCCModel.NoiDung_GetByIdNoiDung_Result">
+          <ScalarProperty Name="IDNoiDung" ColumnName="IDNoiDung" />
+          <ScalarProperty Name="DoiTuong" ColumnName="DoiTuong" />
+          <ScalarProperty Name="NoiDung" ColumnName="NoiDung" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="NoiDung_GetPaged" FunctionName="QLThiCCModel.Store.NoiDung_GetPaged" />
+    <FunctionImportMapping FunctionImportName="NoiDung_Insert" FunctionName="QLThiCCModel.Store.NoiDung_Insert" />
+    <FunctionImportMapping FunctionImportName="NoiDung_Update" FunctionName="QLThiCCModel.Store.NoiDung_Update" />
+    <FunctionImportMapping FunctionImportName="sp_alterdiagram" FunctionName="QLThiCCModel.Store.sp_alterdiagram" />
+    <FunctionImportMapping FunctionImportName="sp_creatediagram" FunctionName="QLThiCCModel.Store.sp_creatediagram" />
+    <FunctionImportMapping FunctionImportName="sp_dropdiagram" FunctionName="QLThiCCModel.Store.sp_dropdiagram" />
+    <FunctionImportMapping FunctionImportName="sp_helpdiagramdefinition" FunctionName="QLThiCCModel.Store.sp_helpdiagramdefinition">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLThiCCModel.sp_helpdiagramdefinition_Result">
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_helpdiagrams" FunctionName="QLThiCCModel.Store.sp_helpdiagrams">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLThiCCModel.sp_helpdiagrams_Result">
+          <ScalarProperty Name="Database" ColumnName="Database" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Owner" ColumnName="Owner" />
+          <ScalarProperty Name="OwnerID" ColumnName="OwnerID" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_renamediagram" FunctionName="QLThiCCModel.Store.sp_renamediagram" />
+    <FunctionImportMapping FunctionImportName="sp_upgraddiagrams" FunctionName="QLThiCCModel.Store.sp_upgraddiagrams" />
+    <FunctionImportMapping FunctionImportName="ThiSinh_Delete" FunctionName="QLThiCCModel.Store.ThiSinh_Delete" />
+    <FunctionImportMapping FunctionImportName="ThiSinh_Find" FunctionName="QLThiCCModel.Store.ThiSinh_Find">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLThiCCModel.ThiSinh_Find_Result">
+          <ScalarProperty Name="IDThiSinh" ColumnName="IDThiSinh" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Ho" ColumnName="Ho" />
+          <ScalarProperty Name="Ten" ColumnName="Ten" />
+          <ScalarProperty Name="NgaySinh" ColumnName="NgaySinh" />
+          <ScalarProperty Name="GioiTinh" ColumnName="GioiTinh" />
+          <ScalarProperty Name="CMND" ColumnName="CMND" />
+          <ScalarProperty Name="SDT" ColumnName="SDT" />
+          <ScalarProperty Name="IDNoiDung" ColumnName="IDNoiDung" />
+          <ScalarProperty Name="IDNhuCau" ColumnName="IDNhuCau" />
+          <ScalarProperty Name="TrangThai" ColumnName="TrangThai" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="ThiSinh_Get_List" FunctionName="QLThiCCModel.Store.ThiSinh_Get_List">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLThiCCModel.ThiSinh_Get_List_Result">
+          <ScalarProperty Name="IDThiSinh" ColumnName="IDThiSinh" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Ho" ColumnName="Ho" />
+          <ScalarProperty Name="Ten" ColumnName="Ten" />
+          <ScalarProperty Name="NgaySinh" ColumnName="NgaySinh" />
+          <ScalarProperty Name="GioiTinh" ColumnName="GioiTinh" />
+          <ScalarProperty Name="CMND" ColumnName="CMND" />
+          <ScalarProperty Name="SDT" ColumnName="SDT" />
+          <ScalarProperty Name="IDNoiDung" ColumnName="IDNoiDung" />
+          <ScalarProperty Name="IDNhuCau" ColumnName="IDNhuCau" />
+          <ScalarProperty Name="TrangThai" ColumnName="TrangThai" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="ThiSinh_GetByIdNhuCau" FunctionName="QLThiCCModel.Store.ThiSinh_GetByIdNhuCau">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLThiCCModel.ThiSinh_GetByIdNhuCau_Result">
+          <ScalarProperty Name="IDThiSinh" ColumnName="IDThiSinh" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Ho" ColumnName="Ho" />
+          <ScalarProperty Name="Ten" ColumnName="Ten" />
+          <ScalarProperty Name="NgaySinh" ColumnName="NgaySinh" />
+          <ScalarProperty Name="GioiTinh" ColumnName="GioiTinh" />
+          <ScalarProperty Name="CMND" ColumnName="CMND" />
+          <ScalarProperty Name="SDT" ColumnName="SDT" />
+          <ScalarProperty Name="IDNoiDung" ColumnName="IDNoiDung" />
+          <ScalarProperty Name="IDNhuCau" ColumnName="IDNhuCau" />
+          <ScalarProperty Name="TrangThai" ColumnName="TrangThai" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="ThiSinh_GetByIdNoiDung" FunctionName="QLThiCCModel.Store.ThiSinh_GetByIdNoiDung">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLThiCCModel.ThiSinh_GetByIdNoiDung_Result">
+          <ScalarProperty Name="IDThiSinh" ColumnName="IDThiSinh" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Ho" ColumnName="Ho" />
+          <ScalarProperty Name="Ten" ColumnName="Ten" />
+          <ScalarProperty Name="NgaySinh" ColumnName="NgaySinh" />
+          <ScalarProperty Name="GioiTinh" ColumnName="GioiTinh" />
+          <ScalarProperty Name="CMND" ColumnName="CMND" />
+          <ScalarProperty Name="SDT" ColumnName="SDT" />
+          <ScalarProperty Name="IDNoiDung" ColumnName="IDNoiDung" />
+          <ScalarProperty Name="IDNhuCau" ColumnName="IDNhuCau" />
+          <ScalarProperty Name="TrangThai" ColumnName="TrangThai" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="ThiSinh_GetByIdThiSinh" FunctionName="QLThiCCModel.Store.ThiSinh_GetByIdThiSinh">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="QLThiCCModel.ThiSinh_GetByIdThiSinh_Result">
+          <ScalarProperty Name="IDThiSinh" ColumnName="IDThiSinh" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Ho" ColumnName="Ho" />
+          <ScalarProperty Name="Ten" ColumnName="Ten" />
+          <ScalarProperty Name="NgaySinh" ColumnName="NgaySinh" />
+          <ScalarProperty Name="GioiTinh" ColumnName="GioiTinh" />
+          <ScalarProperty Name="CMND" ColumnName="CMND" />
+          <ScalarProperty Name="SDT" ColumnName="SDT" />
+          <ScalarProperty Name="IDNoiDung" ColumnName="IDNoiDung" />
+          <ScalarProperty Name="IDNhuCau" ColumnName="IDNhuCau" />
+          <ScalarProperty Name="TrangThai" ColumnName="TrangThai" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="ThiSinh_GetPaged" FunctionName="QLThiCCModel.Store.ThiSinh_GetPaged" />
+    <FunctionImportMapping FunctionImportName="ThiSinh_Insert" FunctionName="QLThiCCModel.Store.ThiSinh_Insert" />
+    <FunctionImportMapping FunctionImportName="ThiSinh_Update" FunctionName="QLThiCCModel.Store.ThiSinh_Update" />
+    <EntitySetMapping Name="ChungChis">
+      <EntityTypeMapping TypeName="QLThiCCModel.ChungChi">
+        <MappingFragment StoreEntitySet="ChungChi">
+          <ScalarProperty Name="SoVanBang" ColumnName="SoVanBang" />
+          <ScalarProperty Name="SoVaoSo" ColumnName="SoVaoSo" />
+          <ScalarProperty Name="IDKetQua" ColumnName="IDKetQua" />
+          <ScalarProperty Name="IDChungChi" ColumnName="IDChungChi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DanhSachThis">
+      <EntityTypeMapping TypeName="QLThiCCModel.DanhSachThi">
+        <MappingFragment StoreEntitySet="DanhSachThi">
+          <ScalarProperty Name="GhiChu" ColumnName="GhiChu" />
+          <ScalarProperty Name="IDDotThi" ColumnName="IDDotThi" />
+          <ScalarProperty Name="IDThiSinh" ColumnName="IDThiSinh" />
+          <ScalarProperty Name="SBD" ColumnName="SBD" />
+          <ScalarProperty Name="IDThi" ColumnName="IDThi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DanhSachThuBais">
+      <EntityTypeMapping TypeName="QLThiCCModel.DanhSachThuBai">
+        <MappingFragment StoreEntitySet="DanhSachThuBai">
+          <ScalarProperty Name="GhiChu" ColumnName="GhiChu" />
+          <ScalarProperty Name="KichThuocPpt" ColumnName="KichThuocPpt" />
+          <ScalarProperty Name="KichThuocExcel" ColumnName="KichThuocExcel" />
+          <ScalarProperty Name="KichThuocWord" ColumnName="KichThuocWord" />
+          <ScalarProperty Name="DiemTN" ColumnName="DiemTN" />
+          <ScalarProperty Name="IDThi" ColumnName="IDThi" />
+          <ScalarProperty Name="IDThuBai" ColumnName="IDThuBai" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="DotThis">
+      <EntityTypeMapping TypeName="QLThiCCModel.DotThi">
+        <MappingFragment StoreEntitySet="DotThi">
+          <ScalarProperty Name="DenNgay" ColumnName="DenNgay" />
+          <ScalarProperty Name="TuNgay" ColumnName="TuNgay" />
+          <ScalarProperty Name="IDDotThi" ColumnName="IDDotThi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="GiaoViens">
+      <EntityTypeMapping TypeName="QLThiCCModel.GiaoVien">
+        <MappingFragment StoreEntitySet="GiaoVien">
+          <ScalarProperty Name="GhiChu" ColumnName="GhiChu" />
+          <ScalarProperty Name="CapBac" ColumnName="CapBac" />
+          <ScalarProperty Name="DonVi" ColumnName="DonVi" />
+          <ScalarProperty Name="Ten" ColumnName="Ten" />
+          <ScalarProperty Name="Ho" ColumnName="Ho" />
+          <ScalarProperty Name="IDGiaoVien" ColumnName="IDGiaoVien" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="HoiDongs">
+      <EntityTypeMapping TypeName="QLThiCCModel.HoiDong">
+        <MappingFragment StoreEntitySet="HoiDong">
+          <ScalarProperty Name="IDNhiemVu" ColumnName="IDNhiemVu" />
+          <ScalarProperty Name="IDDotThi" ColumnName="IDDotThi" />
+          <ScalarProperty Name="IDGiaoVien" ColumnName="IDGiaoVien" />
+          <ScalarProperty Name="IDHoiDong" ColumnName="IDHoiDong" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="KetQuas">
+      <EntityTypeMapping TypeName="QLThiCCModel.KetQua">
+        <MappingFragment StoreEntitySet="KetQua">
+          <ScalarProperty Name="DiemThucHanh" ColumnName="DiemThucHanh" />
+          <ScalarProperty Name="IDThuBai" ColumnName="IDThuBai" />
+          <ScalarProperty Name="IDKetQua" ColumnName="IDKetQua" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="LePhis">
+      <EntityTypeMapping TypeName="QLThiCCModel.LePhi">
+        <MappingFragment StoreEntitySet="LePhi">
+          <ScalarProperty Name="DenNgay" ColumnName="DenNgay" />
+          <ScalarProperty Name="TuNgay" ColumnName="TuNgay" />
+          <ScalarProperty Name="LePhi1" ColumnName="LePhi" />
+          <ScalarProperty Name="IDNhuCau" ColumnName="IDNhuCau" />
+          <ScalarProperty Name="IDNoiDung" ColumnName="IDNoiDung" />
+          <ScalarProperty Name="IDLePhi" ColumnName="IDLePhi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="LePhiTests">
+      <EntityTypeMapping TypeName="QLThiCCModel.LePhiTest">
+        <MappingFragment StoreEntitySet="LePhiTest">
+          <ScalarProperty Name="DenNgay" ColumnName="DenNgay" />
+          <ScalarProperty Name="TuNgay" ColumnName="TuNgay" />
+          <ScalarProperty Name="LePhiThi" ColumnName="LePhiThi" />
+          <ScalarProperty Name="LePhiOnThi" ColumnName="LePhiOnThi" />
+          <ScalarProperty Name="IDNhuCau" ColumnName="IDNhuCau" />
+          <ScalarProperty Name="IDNoiDung" ColumnName="IDNoiDung" />
+          <ScalarProperty Name="IDLePhi" ColumnName="IDLePhi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="NhiemVus">
+      <EntityTypeMapping TypeName="QLThiCCModel.NhiemVu">
+        <MappingFragment StoreEntitySet="NhiemVu">
+          <ScalarProperty Name="GhiChu" ColumnName="GhiChu" />
+          <ScalarProperty Name="TenNhiemVu" ColumnName="TenNhiemVu" />
+          <ScalarProperty Name="IDNhiemVu" ColumnName="IDNhiemVu" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="NhuCaus">
+      <EntityTypeMapping TypeName="QLThiCCModel.NhuCau">
+        <MappingFragment StoreEntitySet="NhuCau">
+          <ScalarProperty Name="NhuCau1" ColumnName="NhuCau" />
+          <ScalarProperty Name="IDNhuCau" ColumnName="IDNhuCau" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="NoiDungs">
+      <EntityTypeMapping TypeName="QLThiCCModel.NoiDung">
+        <MappingFragment StoreEntitySet="NoiDung">
+          <ScalarProperty Name="NoiDung1" ColumnName="NoiDung" />
+          <ScalarProperty Name="DoiTuong" ColumnName="DoiTuong" />
+          <ScalarProperty Name="IDNoiDung" ColumnName="IDNoiDung" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="QLThiCCModel.sysdiagram">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="definition" ColumnName="definition" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ThiSinhs">
+      <EntityTypeMapping TypeName="QLThiCCModel.ThiSinh">
+        <MappingFragment StoreEntitySet="ThiSinh">
+          <ScalarProperty Name="TrangThai" ColumnName="TrangThai" />
+          <ScalarProperty Name="IDNhuCau" ColumnName="IDNhuCau" />
+          <ScalarProperty Name="IDNoiDung" ColumnName="IDNoiDung" />
+          <ScalarProperty Name="SDT" ColumnName="SDT" />
+          <ScalarProperty Name="CMND" ColumnName="CMND" />
+          <ScalarProperty Name="GioiTinh" ColumnName="GioiTinh" />
+          <ScalarProperty Name="NgaySinh" ColumnName="NgaySinh" />
+          <ScalarProperty Name="Ten" ColumnName="Ten" />
+          <ScalarProperty Name="Ho" ColumnName="Ho" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="IDThiSinh" ColumnName="IDThiSinh" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="QLThiCCModel.User">
+        <MappingFragment StoreEntitySet="User">
+          <ScalarProperty Name="HoTen" ColumnName="HoTen" />
+          <ScalarProperty Name="MatKhau" ColumnName="MatKhau" />
+          <ScalarProperty Name="TaiKhoan" ColumnName="TaiKhoan" />
+          <ScalarProperty Name="IDuser" ColumnName="IDuser" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
